@@ -1,0 +1,842 @@
+,id,Iforest,LOF,FCA,
+344,86-NTFS:\Boot\memtest.exe,1,1,1,3
+86,0-NTFS:\$MFT,1,1,0,2
+87,73635-NTFS:\$Recycle.Bin\S-1-5-21-2232410529-1445159330-2725690660-500\$RU2L112.txt,1,1,0,2
+117,87085-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Themes\CachedFiles\CachedImage_1024_768_POS4.jpg,1,1,0,2
+120,87132-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\INetCookies\Y8KFNFMU.txt,1,1,0,2
+125,87106-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Themes\CachedFiles\CachedImage_2306_1230_POS4.jpg,1,1,0,2
+162,87112-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\Beth_Secret.lnk,1,1,0,2
+359,29-NTFS:\$Extend\$RmMetadata\$TxfLog,0,1,1,2
+411,20479-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Launch Internet Explorer Browser.lnk,1,1,0,2
+473,84656-NTFS:\$Extend\$UsnJrnl:$J,1,1,0,2
+523,30-NTFS:\$Extend\$RmMetadata\$Txf,0,1,1,2
+633,87146-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\590aee7bdd69b59b.customDestinations-ms,1,1,0,2
+0,72576-NTFS:\Windows\WinSxS\wow64_microsoft-windows-scripting_31bf3856ad364e35_6.3.9600.16384_none_437b5d7308b1b9ea\cscript.exe,1,0,0,1
+1,42396-NTFS:\Windows\WinSxS\amd64_microsoft-windows-tcpip-utility_31bf3856ad364e35_6.3.9600.16384_none_238553b522d52927\finger.exe,1,0,0,1
+2,82568-NTFS:\Windows\WinSxS\amd64_microsoft-windows-tabletpc-inputpanel_31bf3856ad364e35_6.3.9600.16384_none_024d75d14b795392\TabTip.exe,1,0,0,1
+3,38939-NTFS:\Windows\WinSxS\amd64_microsoft-windows-dedup-service_31bf3856ad364e35_6.3.9600.16399_none_bfb2ea573d6eff90\ddpeval.exe,1,0,0,1
+4,84892-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories,0,1,0,1
+5,86383-NTFS:\Program Files\VMware\VMware Tools\messages\fr,0,0,1,1
+6,32-NTFS:\$Extend\$RmMetadata\$TxfLog\$TxfLog.blf,0,1,0,1
+7,81365-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediaplayer-setup_31bf3856ad364e35_6.3.9600.17031_none_9ee51bd0aa5c2ad3\setup_wm.exe,1,0,0,1
+8,73056-NTFS:\Windows\WinSxS\x86_microsoft-windows-snmp-evntwin_31bf3856ad364e35_6.3.9600.16384_none_4b7088982115bdb4\evntwin.exe,1,0,0,1
+9,71930-NTFS:\Windows\WinSxS\msil_microsoft.identityserver.proxyservice_31bf3856ad364e35_6.3.9600.16384_none_46e05a81e93b617a\Microsoft.IdentityServer.ProxyService.exe,1,0,0,1
+10,85131-NTFS:\Users\Administrator\AppData\Local\Packages\windows.immersivecontrolpanel_cw5n1h2txyewy,1,0,0,1
+11,80917-NTFS:\Windows\WinSxS\amd64_microsoft-windows-fax-service_31bf3856ad364e35_6.3.9600.16384_none_9de1f9c8544072e5\FXSSVC.exe,1,0,0,1
+12,42041-NTFS:\Windows\WinSxS\amd64_microsoft-windows-server-for-nis_31bf3856ad364e35_6.3.9600.16384_none_39b9aedc382f8a1e\nis2ad.exe,1,0,0,1
+13,37134-NTFS:\Windows\WinSxS\amd64_clientbackup-restorecd_31bf3856ad364e35_6.3.9600.16384_none_a2f5f88f06574944\RestoreCDInit.exe,1,0,0,1
+14,73027-NTFS:\Windows\WinSxS\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.3.9600.16384_none_9dff25cfe2e40fa2\TiWorker.exe,1,0,0,1
+15,82613-NTFS:\Windows\WinSxS\amd64_microsoft-windows-u..onwakesettingflyout_31bf3856ad364e35_6.3.9600.16384_none_9d0baa52b57b04ae\PasswordOnWakeSettingFlyout.exe,1,0,0,1
+16,83039-NTFS:\Windows\WinSxS\amd64_vmconnect_31bf3856ad364e35_6.3.9600.16384_none_80f48c741e1554e6\vmconnect.exe,1,0,0,1
+17,479-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\PowerShell\WF\PS\Microsoft.Windows.ServerManagerWorkflows,1,0,0,1
+18,84790-NTFS:\Program Files\Common Files\VMware\Drivers\vmci\device,0,0,1,1
+19,84409-NTFS:\Windows\WinSxS\wow64_windowssearchengine_31bf3856ad364e35_7.0.9600.16384_none_de0f928be6368663\SearchIndexer.exe,1,0,0,1
+20,87120-NTFS:\Users\Administrator\AppData\Local\Microsoft\Terminal Server Client,1,0,0,1
+21,86378-NTFS:\Program Files\VMware\VMware Tools\messages,0,0,1,1
+22,84306-NTFS:\Windows\WinSxS\wow64_microsoft-windows-m..player-shellpreview_31bf3856ad364e35_6.3.9600.16384_none_bbb0dd8e7b8f291f\wmprph.exe,1,0,0,1
+23,84257-NTFS:\Windows\WinSxS\wow64_microsoft-windows-cleanmgr_31bf3856ad364e35_6.3.9600.16384_none_685740be65e399a2\cleanmgr.exe,1,0,0,1
+24,81628-NTFS:\Windows\WinSxS\amd64_microsoft-windows-rascmak.resources_31bf3856ad364e35_6.3.9600.16384_en-us_2c05233c00866cf3\cmstp.exe,1,0,0,1
+25,81697-NTFS:\Windows\WinSxS\amd64_microsoft-windows-s..e-client-ui-wsreset_31bf3856ad364e35_6.3.9600.16384_none_b7365a02d9f91624\WSReset.exe,1,0,0,1
+26,43359-NTFS:\Windows\WinSxS\amd64_productivity-oim_31bf3856ad364e35_6.3.9600.17016_none_32ddadbc60922eec\OIMGettingStartedWizard.exe,1,0,0,1
+27,43360-NTFS:\Windows\WinSxS\amd64_productivity-oim_31bf3856ad364e35_6.3.9600.17016_none_32ddadbc60922eec\OIMUninstallWizard.exe,1,0,0,1
+28,84512-NTFS:\Windows\WinSxS\x86_microsoft-windows-n..n_service_migreader_31bf3856ad364e35_6.3.9600.16384_none_f939eb5d7acfe238\IasMigReader.exe,1,0,0,1
+29,42056-NTFS:\Windows\WinSxS\amd64_microsoft-windows-server-for-nis_31bf3856ad364e35_6.3.9600.16384_none_39b9aedc382f8a1e\ypmatch.exe,1,0,0,1
+30,42018-NTFS:\Windows\WinSxS\amd64_microsoft-windows-securestartup-service_31bf3856ad364e35_6.3.9600.16384_none_55641417790e8bb8\BdeUISrv.exe,1,0,0,1
+31,42043-NTFS:\Windows\WinSxS\amd64_microsoft-windows-server-for-nis_31bf3856ad364e35_6.3.9600.16384_none_39b9aedc382f8a1e\nisadmin.exe,1,0,0,1
+32,82039-NTFS:\Windows\WinSxS\amd64_microsoft-windows-securestartup-cpl_31bf3856ad364e35_6.3.9600.17044_none_486fda955eef188a\BitLockerWizardElev.exe,1,0,0,1
+33,81259-NTFS:\Windows\WinSxS\amd64_microsoft-windows-m..player-shellpreview_31bf3856ad364e35_6.3.9600.16384_none_b15c333c472e6724\wmprph.exe,1,0,0,1
+34,42389-NTFS:\Windows\WinSxS\amd64_microsoft-windows-taskhost_31bf3856ad364e35_6.3.9600.16384_none_18fd08642e4cdf6d\taskhostex.exe,1,0,0,1
+35,42591-NTFS:\Windows\WinSxS\amd64_microsoft-windows-wid_31bf3856ad364e35_6.3.9600.16384_none_986967552fdc62b2\SqlDumper.exe,1,0,0,1
+36,40489-NTFS:\Windows\WinSxS\amd64_microsoft-windows-m..essagingcoreservice_31bf3856ad364e35_6.3.9600.16384_none_d3c827c6bc254045\mqbkup.exe,1,0,0,1
+37,41749-NTFS:\Windows\WinSxS\amd64_microsoft-windows-remoteassistance-exe_31bf3856ad364e35_6.3.9600.16389_none_281b78a8d5d8536e\sdchange.exe,1,0,0,1
+38,20566-NTFS:\Program Files\VMware\VMware Tools,0,0,1,1
+39,82040-NTFS:\Windows\WinSxS\amd64_microsoft-windows-securestartup-cpl_31bf3856ad364e35_6.3.9600.16384_none_4844b75f5f0f6622\BitLockerWizardElev.exe,1,0,0,1
+40,73110-NTFS:\Windows\WinSxS\x86_microsoft-windows-wmi-snmp-provider_31bf3856ad364e35_6.3.9600.16384_none_3f5b4310e25953b4\smi2smir.exe,1,0,0,1
+41,41172-NTFS:\Windows\WinSxS\amd64_microsoft-windows-n..kloadbalancing-core_31bf3856ad364e35_6.3.9600.16384_none_053619d9a536032b\NLB-unattend.exe,1,0,0,1
+42,72568-NTFS:\Windows\WinSxS\wow64_microsoft-windows-remoteassistance-exe_31bf3856ad364e35_6.3.9600.16384_none_326b21890a3d96b6\sdchange.exe,1,0,0,1
+43,84495-NTFS:\Windows\WinSxS\x86_microsoft-windows-mediaplayer-setup_31bf3856ad364e35_6.3.9600.16384_none_42938e08f2246f2b\unregmp2.exe,1,0,0,1
+44,82267-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..etpc-mathinputpanel_31bf3856ad364e35_6.3.9600.16384_none_bb5fe32324e277e4\mip.exe,1,0,0,1
+45,42175-NTFS:\Windows\WinSxS\amd64_microsoft-windows-snmp-evntwin_31bf3856ad364e35_6.3.9600.16384_none_a78f241bd9732eea\evntwin.exe,1,0,0,1
+46,43924-NTFS:\Windows\WinSxS\amd64_storage-utility_31bf3856ad364e35_6.3.9600.16520_none_581cc258dfc37007\SuChkVol.exe,1,0,0,1
+47,164-NTFS:\Recovery,0,0,1,1
+48,83024-NTFS:\Windows\WinSxS\amd64_updateservices-snapin_31bf3856ad364e35_6.3.9600.16384_none_ff51b352162d9f5c\Microsoft.UpdateServices.UI.OOBEWizard.exe,1,0,0,1
+49,85091-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts,1,0,0,1
+50,39103-NTFS:\Windows\WinSxS\amd64_microsoft-windows-errorreportingfaults_31bf3856ad364e35_6.3.9600.16384_none_60c57cad10c057ad\WerFault.exe,1,0,0,1
+51,38249-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..-commandline-dsdiag_31bf3856ad364e35_6.3.9600.16384_none_3ced6493d2002595\dcdiag.exe,1,0,0,1
+52,20564-NTFS:\ProgramData\VMware\VMware Tools\Unity Filters,0,0,1,1
+53,39030-NTFS:\Windows\WinSxS\amd64_microsoft-windows-dns-server-service_31bf3856ad364e35_6.3.9600.16384_none_3ec44580aa8b9f7f\dns.exe,1,0,0,1
+54,39098-NTFS:\Windows\WinSxS\amd64_microsoft-windows-errorreportingcore_31bf3856ad364e35_6.3.9600.16384_none_11351220d9db425d\wermgr.exe,1,0,0,1
+55,81548-NTFS:\Windows\WinSxS\amd64_microsoft-windows-p..ting-tools-printbrm_31bf3856ad364e35_6.3.9600.16384_none_7278887f194b9a3e\PrintBrmUi.exe,1,0,0,1
+56,87098-NTFS:\Users\Administrator\AppData\Local\EmieUserList,1,0,0,1
+57,73021-NTFS:\Windows\WinSxS\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.3.9600.16384_none_9dff25cfe2e40fa2\poqexec.exe,1,0,0,1
+58,86399-NTFS:\Program Files\VMware\VMware Tools\win64,0,0,1,1
+59,38016-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_607a8fc83c1f7915\WindowsServer2003.WindowsXP-KB943295-x64-ENU.exe,1,0,0,1
+60,42719-NTFS:\Windows\WinSxS\amd64_microsoft-windows-wusa_31bf3856ad364e35_6.3.9600.16384_none_9dbef187ec93e1a0\wusa.exe,1,0,0,1
+61,39985-NTFS:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.17031_none_01dac51388a3a832\iisrstas.exe,1,0,0,1
+62,84789-NTFS:\Program Files\Common Files\VMware\Drivers\vmci,0,0,1,1
+63,73613-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Protect,1,0,0,1
+64,41750-NTFS:\Windows\WinSxS\amd64_microsoft-windows-remoteassistance-exe_31bf3856ad364e35_6.3.9600.16384_none_28167736d5dcd4bb\sdchange.exe,1,0,0,1
+65,73729-NTFS:\Program Files\Common Files\VMware\Drivers\mouse\Win8,0,0,1,1
+66,80778-NTFS:\Windows\WinSxS\amd64_microsoft-windows-explorer_31bf3856ad364e35_6.3.9600.16384_none_4273071d4db37533\explorer.exe,1,0,0,1
+67,87137-NTFS:\Windows\System32\coreupdater.exe,1,0,0,1
+68,72061-NTFS:\Windows\WinSxS\msil_microsoft.windows.s..migration.downlevel_31bf3856ad364e35_6.3.9600.16384_none_3f5c25ceb8cfe3b3\SmigDeploy.exe,1,0,0,1
+69,38279-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..andlinepropertytool_31bf3856ad364e35_6.3.9600.16384_none_fbfbaef354d16712\imjpuexc.exe,1,0,0,1
+70,72661-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-PTG.exe,1,0,0,1
+71,42600-NTFS:\Windows\WinSxS\amd64_microsoft-windows-wid_31bf3856ad364e35_6.3.9600.16384_none_986967552fdc62b2\sqlwriter.exe,1,0,0,1
+72,84385-NTFS:\Windows\WinSxS\wow64_microsoft-windows-web-app-host_31bf3856ad364e35_6.3.9600.16384_none_2da2d134d7628ecc\WWAHost.exe,1,0,0,1
+73,87123-NTFS:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\Tiles,1,0,0,1
+74,38119-NTFS:\Windows\WinSxS\amd64_microsoft-windows-advancedtaskmanager_31bf3856ad364e35_6.3.9600.16384_none_9fa53aeabf7657ba\Taskmgr.exe,1,0,0,1
+75,42975-NTFS:\Windows\WinSxS\amd64_netfx-aspnet_wp_exe_b03f5f7f11d50a3a_6.3.9600.16463_none_9846eec03bda280a\aspnet_wp.exe,1,0,0,1
+76,42167-NTFS:\Windows\WinSxS\amd64_microsoft-windows-snmp-agent-service_31bf3856ad364e35_6.3.9600.16384_none_e7f341722c39df40\snmp.exe,1,0,0,1
+77,161-NTFS:\BOOTSECT.BAK,0,1,0,1
+78,85044-NTFS:\Users\Administrator\AppData\Local\Microsoft\PlayReady,1,0,0,1
+79,81997-NTFS:\Windows\WinSxS\amd64_microsoft-windows-s..up-drivepreparation_31bf3856ad364e35_6.3.9600.16384_none_91afe7663cf4801e\BdeHdCfg.exe,1,0,0,1
+80,121-NTFS:\Boot\tr-TR,0,0,1,1
+81,84488-NTFS:\Windows\WinSxS\x86_microsoft-windows-isoburn_31bf3856ad364e35_6.3.9600.16384_none_7ad26ba6b4d4d6da\isoburn.exe,1,0,0,1
+82,72648-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-DEU.exe,1,0,0,1
+83,84190-NTFS:\Windows\WinSxS\msil_microsoft.storagemanagement.oobe_31bf3856ad364e35_6.3.9600.16384_none_983d7c2c96a8e0a1\SetupCluster.exe,1,0,0,1
+84,72231-NTFS:\Windows\WinSxS\msil_wsatconfig_b03f5f7f11d50a3a_6.3.9600.16384_none_23eae3147b8caec0\WsatConfig.exe,1,0,0,1
+85,87111-NTFS:\FileShare\Secret\Beth_Secret.txt,0,1,0,1
+88,75640-NTFS:\Windows\WinSxS\msil_microsoft-windows-workplacejoin_31bf3856ad364e35_6.3.9600.16384_none_6c98aaf16c52982b\AutoWorkplace.exe,1,0,0,1
+89,73055-NTFS:\Windows\WinSxS\x86_microsoft-windows-snmp-evntcmd_31bf3856ad364e35_6.3.9600.16384_none_4da48c281f9eb7d2\evntcmd.exe,1,0,0,1
+90,39013-NTFS:\Windows\WinSxS\amd64_microsoft-windows-diskpart_31bf3856ad364e35_6.3.9600.16384_none_5996c56569e3ed38\diskpart.exe,1,0,0,1
+91,84286-NTFS:\Windows\WinSxS\wow64_microsoft-windows-i..etexplorer-optional_31bf3856ad364e35_11.0.9600.17031_none_a6ec1d48c506fb7a\iexplore.exe,1,0,0,1
+92,42235-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..-remoteapplications_31bf3856ad364e35_6.3.9600.16384_none_32ce9a15705897f8\rdpshell.exe,1,0,0,1
+93,42379-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..vices-licenseserver_31bf3856ad364e35_6.3.9600.16384_none_920640d8727f433b\TLSUnattend.exe,1,0,0,1
+94,20377-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\appsFolder.itemdata-ms,0,1,0,1
+95,87089-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\INetCache\Low\Content.IE5,1,0,0,1
+96,72645-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..aller-win5x-package_31bf3856ad364e35_6.3.9600.16384_none_66ccee6da5edbbaa\Windows5.x-HyperVIntegrationServices-x86.msi,1,0,0,1
+97,42305-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..krecognition-server_31bf3856ad364e35_6.3.9600.17031_none_1f4133af0b93a584\hwrreg.exe,1,0,0,1
+98,87130-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\1bc392b8e104a00e.automaticDestinations-ms,0,1,0,1
+99,39460-NTFS:\Windows\WinSxS\amd64_microsoft-windows-fsdm-hostprocess_31bf3856ad364e35_6.3.9600.16384_none_1dcf65c39dce3a7c\fsdmhost.exe,1,0,0,1
+100,38040-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_607a8fc83c1f7915\WindowsServer2003.WindowsXP-KB943295-x64-RUS.exe,1,0,0,1
+101,41028-NTFS:\Windows\WinSxS\amd64_microsoft-windows-migrationengine_31bf3856ad364e35_6.3.9600.16384_none_496637bdaf370348\mighost.exe,1,0,0,1
+102,41208-NTFS:\Windows\WinSxS\amd64_microsoft-windows-nap-oobshv_31bf3856ad364e35_6.3.9600.16384_none_84a0392517a2f96b\shvcnfg.exe,1,0,0,1
+103,42491-NTFS:\Windows\WinSxS\amd64_microsoft-windows-w..tionproxy-authnzlib_31bf3856ad364e35_6.3.9600.16384_none_ad872097f4ade438\Microsoft.IdentityServer.ApplicationProxy.AuthNZLib.exe,1,0,0,1
+104,72676-NTFS:\Windows\WinSxS\x86_microsoft-windows-autofmt_31bf3856ad364e35_6.3.9600.16384_none_7a940164dac7ad16\autofmt.exe,1,0,0,1
+105,87124-NTFS:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\Tiles\pin-314712940,1,0,0,1
+106,38009-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_607a8fc83c1f7915\WindowsServer2003.WindowsXP-KB943295-x64-CHS.exe,1,0,0,1
+107,41976-NTFS:\Windows\WinSxS\amd64_microsoft-windows-s..restartup-repairbde_31bf3856ad364e35_6.3.9600.16384_none_c2b2a162e3fc49f9\repair-bde.exe,1,0,0,1
+108,38968-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\PowerShell\ScheduledJobs,1,0,0,1
+109,81745-NTFS:\Windows\WinSxS\amd64_microsoft-windows-s..settings-adminflows_31bf3856ad364e35_6.3.9600.16384_none_4d9c63085deace6b\SystemSettingsAdminFlows.exe,1,0,0,1
+110,435-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\WER\ReportQueue\NonCritical_x64_9b7b96e7449d9b89f8a366d8a7931ec83e213_00000000_04bb618a,1,0,0,1
+111,38011-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-g..aller-win5x-package_31bf3856ad364e35_6.3.9600.16384_none_c2eb89f15e4b2ce0\Windows5.x-HyperVIntegrationServices-x64.msi,1,0,0,1
+112,82537-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..vercommandlinetools_31bf3856ad364e35_6.3.9600.16384_none_ab01eeed78ba027b\flattemp.exe,1,0,0,1
+113,86391-NTFS:\Program Files\VMware\VMware Tools\messages\zh_CN,0,0,1,1
+114,82581-NTFS:\Windows\WinSxS\amd64_microsoft-windows-telnet-server-tlntsess_31bf3856ad364e35_6.3.9600.16384_none_9ab560005c764403\tlntsess.exe,1,0,0,1
+115,84496-NTFS:\Windows\WinSxS\x86_microsoft-windows-mediaplayer-setup_31bf3856ad364e35_6.3.9600.16384_none_42938e08f2246f2b\setup_wm.exe,1,0,0,1
+116,84448-NTFS:\Windows\WinSxS\x86_microsoft-windows-d..files-x64-minkernel_31bf3856ad364e35_6.3.9600.16384_none_a02b82dd67d2bb5c\bootmgr.exe,1,0,0,1
+118,46657-NTFS:\Windows\WinSxS\amd64_updateservices-services_31bf3856ad364e35_6.3.9600.16384_none_6f837e94933e9c39\WsusService.exe,1,0,0,1
+119,37144-NTFS:\Windows\WinSxS\amd64_clientbackup-restorecd_31bf3856ad364e35_6.3.9600.16384_none_a2f5f88f06574944\WSSDriverSetup.exe,1,0,0,1
+121,72663-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-guest-installer_31bf3856ad364e35_6.3.9600.16384_none_0644c5b63d5c8d2f\setup.exe,1,0,0,1
+122,85032-NTFS:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\IECompatData,1,0,0,1
+123,41272-NTFS:\Windows\WinSxS\amd64_microsoft-windows-ocspsvc_31bf3856ad364e35_6.3.9600.16384_none_cdffae75374dc6b1\ocspsvc.exe,1,0,0,1
+124,72491-NTFS:\Windows\WinSxS\wow64_microsoft-windows-mediafoundation_31bf3856ad364e35_6.3.9600.17031_none_97a52bdd14f3bd64\rrinstaller.exe,1,0,0,1
+126,84595-NTFS:\Windows\WinSxS\x86_microsoft-windows-webcamexperience_31bf3856ad364e35_6.3.9600.16388_none_018c95f8c7641187\CameraSettingsUIHost.exe,1,0,0,1
+127,72266-NTFS:\Windows\WinSxS\wow64_microsoft-windows-advancedtaskmanager_31bf3856ad364e35_6.3.9600.16384_none_a9f9e53cf3d719b5\Taskmgr.exe,1,0,0,1
+128,41224-NTFS:\Windows\WinSxS\amd64_microsoft-windows-nfs-admincmdtools_31bf3856ad364e35_6.3.9600.16384_none_a56c7cc166ff2b2a\nfsadmin.exe,1,0,0,1
+129,72652-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-ITA.exe,1,0,0,1
+130,81052-NTFS:\Windows\WinSxS\amd64_microsoft-windows-i..devicescontrolpanel_31bf3856ad364e35_6.3.9600.16384_none_155e2bdf1d18b402\ImagingDevices.exe,1,0,0,1
+131,84299-NTFS:\Windows\WinSxS\wow64_microsoft-windows-iis-legacysnapin_31bf3856ad364e35_6.3.9600.16384_none_7c33de64ba5dc639\InetMgr6.exe,1,0,0,1
+132,81399-NTFS:\Windows\WinSxS\amd64_microsoft-windows-n..adbalancing-manager_31bf3856ad364e35_6.3.9600.16384_none_93e1a47802f76707\nlbmgr.exe,1,0,0,1
+133,72388-NTFS:\Windows\WinSxS\wow64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.16384_none_0bfc7d21bd2a1fbb\iisreset.exe,1,0,0,1
+134,32551-NTFS:\Windows\System32\en-US\erofflps.txt,0,1,0,1
+135,72650-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-ENU.exe,1,0,0,1
+136,82050-NTFS:\Windows\WinSxS\amd64_microsoft-windows-security-webauth_31bf3856ad364e35_6.3.9600.16384_none_1c6155ebcae41f1b\AuthHost.exe,1,0,0,1
+137,72319-NTFS:\Windows\WinSxS\wow64_microsoft-windows-i..lified-chinese-core_31bf3856ad364e35_6.3.9600.16384_none_1324683e504b4679\IMSCPROP.exe,1,0,0,1
+138,73066-NTFS:\Windows\WinSxS\x86_microsoft-windows-tcpip-utility_31bf3856ad364e35_6.3.9600.16384_none_c766b8316a77b7f1\finger.exe,1,0,0,1
+139,38111-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-vstack-vmwp_31bf3856ad364e35_6.3.9600.16384_none_25feee5133bfaee5\vmwp.exe,1,0,0,1
+140,38909-NTFS:\Windows\WinSxS\amd64_microsoft-windows-dedup-service_31bf3856ad364e35_6.3.9600.16399_none_bfb2ea573d6eff90\ddpcli.exe,1,0,0,1
+141,85372-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\Burn,1,0,0,1
+142,38146-NTFS:\Windows\WinSxS\amd64_microsoft-windows-b..vironment-os-loader_31bf3856ad364e35_6.3.9600.16384_none_4be51a3d409de6bc\winresume.exe,1,0,0,1
+143,38175-NTFS:\Windows\WinSxS\amd64_microsoft-windows-blb-cli-main_31bf3856ad364e35_6.3.9600.17031_none_3c462f6f62d70947\wbadmin.exe,1,0,0,1
+144,41739-NTFS:\Windows\WinSxS\amd64_microsoft-windows-rasrqs_31bf3856ad364e35_6.3.9600.16384_none_5d3e2d4324062d92\rqs.exe,1,0,0,1
+145,99-NTFS:\Boot\pt-PT,0,0,1,1
+146,42400-NTFS:\Windows\WinSxS\amd64_microsoft-windows-telnet-client_31bf3856ad364e35_6.3.9600.16384_none_a8eff16ff90170fa\telnet.exe,1,0,0,1
+147,84169-NTFS:\Windows\WinSxS\msil_microsoft.storagemanagement.oobe_31bf3856ad364e35_6.3.9600.16384_none_983d7c2c96a8e0a1\OemOobe.exe,1,0,0,1
+148,72667-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-TRK.exe,1,0,0,1
+149,86973-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\History\History.IE5\MSHist012020091820200919,1,0,0,1
+150,80505-NTFS:\Windows\WinSxS\amd64_microsoft-windows-audio-audiocore_31bf3856ad364e35_6.3.9600.16384_none_675e2431b896c64e\audiodg.exe,1,0,0,1
+151,87093-NTFS:\Users\Administrator\AppData\Local\EmieSiteList,1,0,0,1
+152,41731-NTFS:\Windows\WinSxS\amd64_microsoft-windows-rasremrras_31bf3856ad364e35_6.3.9600.16384_none_aae95be8795672a0\remrras.exe,1,0,0,1
+153,75550-NTFS:\Users\Administrator\AppData\Local\Microsoft\Feeds\{5588ACFD-6436-411B-A5CE-666AE6A92D3D}~,1,0,0,1
+154,42309-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..lipboardredirection_31bf3856ad364e35_6.3.9600.16384_none_f29470addf193129\rdpclip.exe,1,0,0,1
+155,72396-NTFS:\Windows\WinSxS\wow64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.16384_none_0bfc7d21bd2a1fbb\iissetup.exe,1,0,0,1
+156,72649-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-CSY.exe,1,0,0,1
+157,38126-NTFS:\Windows\WinSxS\amd64_microsoft-windows-autofmt_31bf3856ad364e35_6.3.9600.16384_none_d6b29ce893251e4c\autofmt.exe,1,0,0,1
+158,43929-NTFS:\Windows\WinSxS\amd64_storage-ux-drives_31bf3856ad364e35_6.3.9600.16384_none_d5f739737097c370\AddNewHardDriveWizard.exe,1,0,0,1
+159,39307-NTFS:\Windows\WinSxS\amd64_microsoft-windows-f..overcluster-clussvc_31bf3856ad364e35_6.3.9600.16521_none_aabdebce7554dab7\clussvc.exe,1,0,0,1
+160,34294-NTFS:\Windows\WinSxS\wow64_microsoft-windows-p..ll-preloc.resources_31bf3856ad364e35_6.3.9600.16384_en-us_bcc55cb4a9c56555\default.help.txt,0,1,0,1
+161,84981-NTFS:\Users\Administrator\AppData\Local\Temporary Internet Files,1,0,0,1
+163,72657-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-KOR.exe,1,0,0,1
+164,86385-NTFS:\Program Files\VMware\VMware Tools\messages\it,0,0,1,1
+165,85793-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\WER\ReportArchive,1,0,0,1
+166,84583-NTFS:\Windows\WinSxS\x86_microsoft-windows-utilman_31bf3856ad364e35_6.3.9600.16384_none_974974764cd6e410\Utilman.exe,1,0,0,1
+167,84627-NTFS:\System Volume Information,0,0,1,1
+168,40027-NTFS:\Windows\WinSxS\amd64_microsoft-windows-ime-eashared-ccshared_31bf3856ad364e35_6.3.9600.16384_none_c6d864f34e294f69\IMCCPHR.exe,1,0,0,1
+169,82621-NTFS:\Windows\WinSxS\amd64_microsoft-windows-usercpl-usermgrbroker_31bf3856ad364e35_6.3.9600.16384_none_076a716aa8aeaf3f\UserAccountBroker.exe,1,0,0,1
+170,73684-NTFS:\ProgramData\VMware\VMware VGAuth\msgCatalogs\messages\zh_TW,0,0,1,1
+171,87050-NTFS:\Users\Administrator\AppData\Local\Microsoft\Feeds\{5588ACFD-6436-411B-A5CE-666AE6A92D3D}~\WebSlices~,1,0,0,1
+172,37233-NTFS:\Windows\WinSxS\amd64_health-report_31bf3856ad364e35_6.3.9600.16384_none_b08254419b702cda\HealthReportCleanup.exe,1,0,0,1
+173,81517-NTFS:\Windows\WinSxS\amd64_microsoft-windows-p..ting-lprportmonitor_31bf3856ad364e35_6.3.9600.16384_none_a4c2018c11c59f79\lpq.exe,1,0,0,1
+174,90-NTFS:\Boot\nl-NL,0,0,1,1
+175,80512-NTFS:\Windows\WinSxS\amd64_microsoft-windows-audio-volumecontrol_31bf3856ad364e35_6.3.9600.16384_none_b6e6d171db710618\SndVol.exe,1,0,0,1
+176,84408-NTFS:\Windows\WinSxS\wow64_windowssearchengine_31bf3856ad364e35_7.0.9600.16384_none_de0f928be6368663\SearchProtocolHost.exe,1,0,0,1
+177,73163-NTFS:\Windows\WinSxS\x86_netfx4-aspnet_wp_exe_b03f5f7f11d50a3a_4.0.9600.16384_none_793bb57d2ad646c9\aspnet_wp.exe,1,0,0,1
+178,80623-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..agement-commandline_31bf3856ad364e35_6.3.9600.16384_none_b789f1fd35ce0acc\wdsutil.exe,1,0,0,1
+179,81680-NTFS:\Windows\WinSxS\amd64_microsoft-windows-s..client-ui-wscollect_31bf3856ad364e35_6.3.9600.16477_none_fa7f9a480571cb5c\WSCollect.exe,1,0,0,1
+180,38936-NTFS:\Windows\WinSxS\amd64_microsoft-windows-defrag-cmdline_31bf3856ad364e35_6.3.9600.16384_none_b83a2fc69a4c8090\Defrag.exe,1,0,0,1
+181,87024-NTFS:\Windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\Network\Connections,1,0,0,1
+182,85038-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\INetCache\Virtualized,1,0,0,1
+183,76404-NTFS:\Windows\System32\ServerManager.exe,1,0,0,1
+184,39961-NTFS:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.16384_none_01a7d2cf88c95dc0\aspnetca.exe,1,0,0,1
+185,84256-NTFS:\Windows\WinSxS\wow64_microsoft-windows-charmap_31bf3856ad364e35_6.3.9600.16384_none_ed6cc7bbacb2ef57\charmap.exe,1,0,0,1
+186,87138-NTFS:\ProgramData\Microsoft\Crypto\RSA\S-1-5-18\8a3c74394991f8badd8ff157fb357855_4b4ea8ce-0ec8-44d8-ba9d-fc256d5fb3e3,0,1,0,1
+187,38203-NTFS:\Windows\WinSxS\amd64_microsoft-windows-ceipforwarding-service_31bf3856ad364e35_6.3.9600.16384_none_0712e8e9051264e8\ceipfwd.exe,1,0,0,1
+188,85013-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\RoamingTiles,1,0,0,1
+189,82915-NTFS:\Windows\WinSxS\amd64_microsoft-windows-xpsreachviewer_31bf3856ad364e35_6.3.9600.16384_none_05d9b38b222e8802\xpsrchvw.exe,1,0,0,1
+190,72892-NTFS:\Windows\WinSxS\x86_microsoft-windows-p..nfiguration-cmdline_31bf3856ad364e35_6.3.9600.16384_none_9dfb7cbe9c58b9a6\powercfg.exe,1,0,0,1
+191,38129-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-vstack-vmms_31bf3856ad364e35_6.3.9600.16384_none_275467ab32e3bc30\vmms.exe,1,0,0,1
+192,72785-NTFS:\Windows\WinSxS\x86_microsoft-windows-errorreportingfaults_31bf3856ad364e35_6.3.9600.16384_none_04a6e1295862e677\WerFaultSecure.exe,1,0,0,1
+193,82419-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..nputpersonalization_31bf3856ad364e35_6.3.9600.16384_none_306a73009a4b3bbc\InputPersonalization.exe,1,0,0,1
+194,84379-NTFS:\Windows\WinSxS\wow64_microsoft-windows-w..pdateclient-activex_31bf3856ad364e35_7.9.9600.16384_none_dc9aadb3af138c34\wuapp.exe,1,0,0,1
+195,1319-NTFS:\Users\Administrator\AppData\LocalLow\Microsoft\CryptnetUrlCache,1,0,0,1
+196,82038-NTFS:\Windows\WinSxS\amd64_microsoft-windows-securestartup-cpl_31bf3856ad364e35_6.3.9600.16384_none_4844b75f5f0f6622\BitLockerWizard.exe,1,0,0,1
+197,19628-NTFS:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group3\desktop.ini,0,1,0,1
+198,85069-NTFS:\Users\Administrator\AppData\Local\Microsoft\Feeds Cache,1,0,0,1
+199,20569-NTFS:\Program Files\VMware\VMware Tools\VMware VGAuth,0,0,1,1
+200,37079-NTFS:\Windows\WinSxS\amd64_admin-dashboard_31bf3856ad364e35_6.3.9600.16384_none_818193f26309dea5\Dashboard.exe,1,0,0,1
+201,71733-NTFS:\Windows\WinSxS\msil_microsoft-windows-d..dministrativecenter_31bf3856ad364e35_6.3.9600.16384_none_a93959a3503b92fa\dsac.exe,1,0,0,1
+202,24-NTFS:\$Extend\$Quota,0,1,0,1
+203,72884-NTFS:\Windows\WinSxS\x86_microsoft-windows-muicachebuilder_31bf3856ad364e35_6.3.9600.16384_none_aeac60c2d071ea26\mcbuilder.exe,1,0,0,1
+204,38113-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-vstack-vmwp_31bf3856ad364e35_6.3.9600.17031_none_2631e0953399f957\vmwp.exe,1,0,0,1
+205,73614-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Protect\S-1-5-21-2232410529-1445159330-2725690660-500,1,0,0,1
+206,23780-NTFS:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessories\Desktop.ini,0,1,0,1
+207,85127-NTFS:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\Recovery,1,0,0,1
+208,38024-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_607a8fc83c1f7915\WindowsServer2003.WindowsXP-KB943295-x64-JPN.exe,1,0,0,1
+209,82037-NTFS:\Windows\WinSxS\amd64_microsoft-windows-securestartup-cpl_31bf3856ad364e35_6.3.9600.17044_none_486fda955eef188a\BitLockerWizard.exe,1,0,0,1
+210,38314-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..ed-chinese-moimeexe_31bf3856ad364e35_6.3.9600.16384_none_d5ca5f3ef2a80af2\ChsIME.exe,1,0,0,1
+211,10-NTFS:\$UpCase,0,1,0,1
+212,42392-NTFS:\Windows\WinSxS\amd64_microsoft-windows-taskscheduler-engine_31bf3856ad364e35_6.3.9600.16384_none_d66aad3992d173cb\taskeng.exe,1,0,0,1
+213,85985-NTFS:\Windows\assembly\NativeImages_v4.0.30319_64\SMSvcHost\90ad9da38780480bb1d8f48db661ea5a\SMSvcHost.ni.exe,0,1,0,1
+214,72638-NTFS:\Windows\WinSxS\wow64_windowssearchengine_31bf3856ad364e35_7.0.9600.17031_none_de4284cfe610d0d5\SearchIndexer.exe,1,0,0,1
+215,42048-NTFS:\Windows\WinSxS\amd64_microsoft-windows-security-spp_31bf3856ad364e35_6.3.9600.16384_none_0b1fb782f4e9f95a\sppsvc.exe,1,0,0,1
+216,42170-NTFS:\Windows\WinSxS\amd64_microsoft-windows-snmp-evntcmd_31bf3856ad364e35_6.3.9600.16384_none_a9c327abd7fc2908\evntcmd.exe,1,0,0,1
+217,71857-NTFS:\Windows\WinSxS\msil_microsoft.deviceregistration.servicehost_31bf3856ad364e35_6.3.9600.16384_none_ae344b7d07a3c040\Microsoft.DeviceRegistration.ServiceHost.exe,1,0,0,1
+218,41167-NTFS:\Windows\WinSxS\amd64_microsoft-windows-n..ervercmdtools-local_31bf3856ad364e35_6.3.9600.16384_none_65070695007ddc00\nfsstat.exe,1,0,0,1
+219,39960-NTFS:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.17031_none_01dac51388a3a832\aspnetca.exe,1,0,0,1
+220,32551-NTFS:\Windows\WinSxS\x86_microsoft-windows-e..rtingcore.resources_31bf3856ad364e35_6.3.9600.16384_en-us_97b34f9d52661d10\erofflps.txt,0,1,0,1
+221,82571-NTFS:\Windows\WinSxS\amd64_microsoft-windows-tabletpc-inputpanel_31bf3856ad364e35_6.3.9600.17031_none_028068154b539e04\TabTip.exe,1,0,0,1
+222,82455-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..nputpersonalization_31bf3856ad364e35_6.3.9600.16384_none_306a73009a4b3bbc\ShapeCollector.exe,1,0,0,1
+223,30803-NTFS:\Windows\System32\tzsync.exe,1,0,0,1
+224,46724-NTFS:\Windows\WinSxS\amd64_wcf-m_sm_cfg_ins_exe_31bf3856ad364e35_6.3.9600.16384_none_f0dfbc1af11cf0df\SMConfigInstaller.exe,1,0,0,1
+225,39465-NTFS:\Windows\WinSxS\amd64_microsoft-windows-fsrm-cli_31bf3856ad364e35_6.3.9600.16384_none_2be2c2a1e7915e9d\dirquota.exe,1,0,0,1
+226,81055-NTFS:\Windows\WinSxS\amd64_microsoft-windows-i..etexplorer-optional_31bf3856ad364e35_11.0.9600.17031_none_9c9772f690a6397f\iexplore.exe,1,0,0,1
+227,87114-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\SystemCertificates\My\Keys,1,0,0,1
+228,85052-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\IECompatUACache\Low,1,0,0,1
+229,42015-NTFS:\Windows\WinSxS\amd64_microsoft-windows-securestartup-prompt_31bf3856ad364e35_6.3.9600.16384_none_e0cdcd2cb7eb2d01\fveprompt.exe,1,0,0,1
+230,81320-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediaplayer-autoplay_31bf3856ad364e35_6.3.9600.16384_none_0bb910a913f1c651\wmlaunch.exe,1,0,0,1
+231,42443-NTFS:\Windows\WinSxS\amd64_microsoft-windows-vssservice_31bf3856ad364e35_6.3.9600.16384_none_4b8b2e81ebce7a3b\VSSVC.exe,1,0,0,1
+232,86547-NTFS:\Windows\assembly\NativeImages_v4.0.30319_32\SMSvcHost\a4c49e23c0c23b5db4c663738eac897e\SMSvcHost.ni.exe,0,1,0,1
+233,72949-NTFS:\Windows\WinSxS\x86_microsoft-windows-s..ccessagent-binaries_31bf3856ad364e35_6.3.9600.16384_none_72d0235f8ffa5f45\BitLockerToGo.exe,1,0,0,1
+234,81237-NTFS:\Windows\WinSxS\amd64_microsoft-windows-iis-managementconsole_31bf3856ad364e35_6.3.9600.16384_none_7891fd6b8f0e8236\InetMgr.exe,1,0,0,1
+235,81124-NTFS:\Windows\WinSxS\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_6.3.9600.17031_none_0baf5cb76ad9135e\SystemSettings.exe,1,0,0,1
+236,37969-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-configure_31bf3856ad364e35_6.3.9600.16384_none_17bbbf95311dc3de\ConfigureHyperV.exe,1,0,0,1
+237,86349-NTFS:\Program Files\Common Files\VMware\Drivers\vss,0,0,1,1
+238,19411-NTFS:\bootmgr,0,1,0,1
+239,84244-NTFS:\Windows\WinSxS\wow64_adobe-flash-for-windows_31bf3856ad364e35_6.3.9600.16384_none_26b2ee6371e75c38\FlashPlayerApp.exe,1,0,0,1
+240,80451-NTFS:\Windows\WinSxS\amd64_microsoft-windows-a..-experience-apphelp_31bf3856ad364e35_6.3.9600.16384_none_72c039d134ba5c8c\pcaui.exe,1,0,0,1
+241,42216-NTFS:\Windows\WinSxS\amd64_microsoft-windows-sqm-consolidator-base_31bf3856ad364e35_6.3.9600.16384_none_c4fdcbf4358e2033\wsqmcons.exe,1,0,0,1
+242,84307-NTFS:\Windows\WinSxS\wow64_microsoft-windows-mediaplayer-autoplay_31bf3856ad364e35_6.3.9600.16384_none_160dbafb4852884c\wmlaunch.exe,1,0,0,1
+243,73674-NTFS:\ProgramData\VMware\VMware VGAuth\msgCatalogs\messages\fr,0,0,1,1
+244,42080-NTFS:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.3.9600.16384_none_fa1dc1539b4180d8\TiFileFetcher.exe,1,0,0,1
+245,79041-NTFS:\Windows\System32\WindowsPowerShell\v1.0\powershell_ise.exe,1,0,0,1
+246,39407-NTFS:\Windows\WinSxS\amd64_microsoft-windows-failovercluster-rhs_31bf3856ad364e35_6.3.9600.16384_none_23114e65a36c3114\rhs.exe,1,0,0,1
+247,81221-NTFS:\Windows\WinSxS\amd64_microsoft-windows-ieinstal_31bf3856ad364e35_11.0.9600.16384_none_ec613b2b7496f16e\ieinstal.exe,1,0,0,1
+248,42303-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..krecognition-server_31bf3856ad364e35_6.3.9600.17031_none_1f4133af0b93a584\hwrcomp.exe,1,0,0,1
+249,73026-NTFS:\Windows\WinSxS\x86_microsoft-windows-servicingstack_31bf3856ad364e35_6.3.9600.16384_none_9dff25cfe2e40fa2\TiFileFetcher.exe,1,0,0,1
+250,38135-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-vstack-vmms_31bf3856ad364e35_6.3.9600.17031_none_278759ef32be06a2\vmms.exe,1,0,0,1
+251,73065-NTFS:\Windows\WinSxS\x86_microsoft-windows-taskscheduler-engine_31bf3856ad364e35_6.3.9600.16384_none_7a4c11b5da740295\taskeng.exe,1,0,0,1
+252,20558-NTFS:\ProgramData\VMware\VMware Tools,0,0,1,1
+253,87055-NTFS:\Users\Administrator\AppData\LocalLow\Microsoft\Windows\AppCache\JDY9X30D,1,0,0,1
+254,40956-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediafoundation_31bf3856ad364e35_6.3.9600.16384_none_8d1d8f46e0b8b0f7\mfpmp.exe,1,0,0,1
+255,20556-NTFS:\ProgramData\VMware,0,0,1,1
+256,41145-NTFS:\Windows\WinSxS\amd64_microsoft-windows-msmq-triggers-service_31bf3856ad364e35_6.3.9600.16384_none_18e4e3e490fc3626\mqtgsvc.exe,1,0,0,1
+257,38166-NTFS:\Windows\WinSxS\amd64_microsoft-windows-bcdboot-cmdlinetool_31bf3856ad364e35_6.3.9600.16384_none_521444a0121b6d02\bcdboot.exe,1,0,0,1
+258,85133-NTFS:\Users\Administrator\AppData\Local\Packages\windows.immersivecontrolpanel_cw5n1h2txyewy\LocalState\Indexed,1,0,0,1
+259,19586-NTFS:\Users\Default\AppData\Local\Microsoft\Windows\WinX\Group2\desktop.ini,0,1,0,1
+260,37140-NTFS:\Windows\WinSxS\amd64_clientbackup-restorecd_31bf3856ad364e35_6.3.9600.16384_none_a2f5f88f06574944\selectlanguage.exe,1,0,0,1
+261,80801-NTFS:\Windows\WinSxS\amd64_microsoft-windows-f..client-applications_31bf3856ad364e35_6.3.9600.16384_none_69b80c71fc5d6b55\FXSCOVER.exe,1,0,0,1
+262,39105-NTFS:\Windows\WinSxS\amd64_microsoft-windows-es-authentication_31bf3856ad364e35_6.3.9600.16384_none_327b1cabea8fe12d\EhStorAuthn.exe,1,0,0,1
+263,37998-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-drivers-hypervisor_31bf3856ad364e35_6.3.9600.17031_none_2142a5b03956989d\hvloader.exe,1,0,0,1
+264,81696-NTFS:\Windows\WinSxS\amd64_microsoft-windows-s..e-client-ui-wsreset_31bf3856ad364e35_6.3.9600.16477_none_b7442cb2d9ee435f\WSReset.exe,1,0,0,1
+265,81640-NTFS:\Windows\WinSxS\amd64_microsoft-windows-rascmak_31bf3856ad364e35_6.3.9600.16384_none_014ac09c4cabe56a\rqc.exe,1,0,0,1
+266,132-NTFS:\Boot\zh-TW,0,0,1,1
+267,84580-NTFS:\Windows\WinSxS\x86_microsoft-windows-usercpl-usermgrbroker_31bf3856ad364e35_6.3.9600.16384_none_ab4bd5e6f0513e09\UserAccountBroker.exe,1,0,0,1
+268,75221-NTFS:\Program Files\Common Files\VMware\Drivers\pvscsi\Win8,0,0,1,1
+269,86379-NTFS:\Program Files\VMware\VMware Tools\messages\de,0,0,1,1
+270,39990-NTFS:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.16384_none_01a7d2cf88c95dc0\iissetup.exe,1,0,0,1
+271,73-NTFS:\Boot\it-IT,0,0,1,1
+272,43926-NTFS:\Windows\WinSxS\amd64_storage-service_31bf3856ad364e35_6.3.9600.16384_none_6dd566bf1b596dd6\storageservice.exe,1,0,0,1
+273,72658-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-PTB.exe,1,0,0,1
+274,72656-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-NLD.exe,1,0,0,1
+275,84158-NTFS:\Windows\WinSxS\msil_microsoft.storagemanagement.oobe_31bf3856ad364e35_6.3.9600.16384_none_983d7c2c96a8e0a1\HyperVEnablement.exe,1,0,0,1
+276,87102-NTFS:\$Recycle.Bin\S-1-5-21-2232410529-1445159330-2725690660-500\$IU2L112.txt,0,1,0,1
+277,207-NTFS:\ProgramData\Microsoft\Event Viewer\Views\ServerRoles,0,0,1,1
+278,72662-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-PLK.exe,1,0,0,1
+279,84344-NTFS:\Windows\WinSxS\wow64_microsoft-windows-rascmak.resources_31bf3856ad364e35_6.3.9600.16384_en-us_3659cd8e34e72eee\cmbins.exe,1,0,0,1
+280,87023-NTFS:\Windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\Network,1,0,0,1
+281,160-NTFS:\Boot\BCD.LOG2,0,1,0,1
+282,159-NTFS:\Boot\BCD.LOG1,0,1,0,1
+283,85048-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\DNTException\Low,1,0,0,1
+284,85630-NTFS:\Windows\assembly\NativeImages_v4.0.30319_64\dfsvc\a086b75bb1e8ee361af6ed079a6b77b4\dfsvc.ni.exe,0,1,0,1
+285,76707-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\AppCache,1,0,0,1
+286,40047-NTFS:\Windows\WinSxS\amd64_microsoft-windows-isns_service_31bf3856ad364e35_6.3.9600.16384_none_b25d88b7fd726c67\isnsui.exe,1,0,0,1
+287,84494-NTFS:\Windows\WinSxS\x86_microsoft-windows-mediaplayer-setup_31bf3856ad364e35_6.3.9600.17031_none_42c6804cf1feb99d\unregmp2.exe,1,0,0,1
+288,86422-NTFS:\Program Files\VMware\VMware Tools\plugins,0,0,1,1
+289,38034-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_607a8fc83c1f7915\WindowsServer2003.WindowsXP-KB943295-x64-ITA.exe,1,0,0,1
+290,81499-NTFS:\Windows\WinSxS\amd64_microsoft-windows-p..ord-synchronization_31bf3856ad364e35_6.3.9600.16384_none_5632e6431091dcac\psadmin.exe,1,0,0,1
+291,34324-NTFS:\Windows\WinSxS\amd64_microsoft.backgroun..nt.module.resources_31bf3856ad364e35_6.3.9600.16384_en-us_75b11f7ad9b908bd\about_BITS_Cmdlets.help.txt,0,1,0,1
+292,42101-NTFS:\Windows\WinSxS\amd64_microsoft-windows-setup-component_31bf3856ad364e35_6.3.9600.16384_none_22eade5981394f0b\oobeldr.exe,1,0,0,1
+293,38219-NTFS:\Windows\WinSxS\amd64_microsoft-windows-consolehost_31bf3856ad364e35_6.3.9600.16384_none_651a275bd610cc27\conhost.exe,1,0,0,1
+294,84065-NTFS:\Windows\WinSxS\msil_dfsradmin_31bf3856ad364e35_6.3.9600.16384_none_0280b12a962f01e4\DfsrAdmin.exe,1,0,0,1
+295,413-NTFS:\Windows\ServiceProfiles\NetworkService\AppData\Local\AutoTrace,1,0,0,1
+296,28-NTFS:\$Extend\$RmMetadata\$Repair,0,1,0,1
+297,81313-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mail-app_31bf3856ad364e35_6.3.9600.16384_none_e2168d9323ac396f\WinMail.exe,1,0,0,1
+298,37646-NTFS:\Windows\WinSxS\amd64_microsoft-windows-scripting_31bf3856ad364e35_6.3.9600.16384_none_3926b320d450f7ef\wscript.exe,1,0,0,1
+299,83400-NTFS:\Windows\WinSxS\amd64_windowssearchengine_31bf3856ad364e35_7.0.9600.16384_none_d3bae839b1d5c468\SearchProtocolHost.exe,1,0,0,1
+300,38035-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_607a8fc83c1f7915\WindowsServer2003.WindowsXP-KB943295-x64-PTB.exe,1,0,0,1
+301,87060-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\Szechuan Sauce.lnk,0,1,0,1
+302,84873-NTFS:\Users\Administrator\Videos,0,1,0,1
+303,85006-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\SystemCertificates\My\CRLs,1,0,0,1
+304,85050-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\IECompatCache\Low,1,0,0,1
+305,81607-NTFS:\Windows\WinSxS\amd64_microsoft-windows-r..sistance-dcomserver_31bf3856ad364e35_6.3.9600.16384_none_20b1fffe4989b3c3\raserver.exe,1,0,0,1
+306,42911-NTFS:\Windows\WinSxS\amd64_microsoft.windows.s..oviderframeworkbase_31bf3856ad364e35_6.3.9600.16384_none_eecbc9c5260b91b4\ProviderRegistryService.exe,1,0,0,1
+307,82269-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..ices-appcompattools_31bf3856ad364e35_6.3.9600.16384_none_e3ddef9c3fb5705d\acregl.exe,1,0,0,1
+308,85123-NTFS:\Program Files\Common Files\VMware\Drivers\vmci\sockets\Win8,0,0,1,1
+309,84172-NTFS:\Windows\WinSxS\msil_microsoft.storagemanagement.oobe_31bf3856ad364e35_6.3.9600.16384_none_983d7c2c96a8e0a1\oobediscoveryservice.exe,1,0,0,1
+310,86978-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\ConnectedSearch\History,1,0,0,1
+311,84776-NTFS:\ProgramData\Microsoft\Windows\SystemData\S-1-5-18\ReadOnly\LockScreen_Z\LockScreen___1024_0768.jpg,0,1,0,1
+312,87079-NTFS:\Windows\ServiceProfiles\NetworkService\AppData\Roaming\Microsoft\Crypto\RSA,1,0,0,1
+313,73140-NTFS:\System Volume Information\DFSR\database_98E6_491B_E648_FAD0\fsrres00001.jrs,0,1,0,1
+314,85070-NTFS:\$Recycle.Bin\S-1-5-21-2232410529-1445159330-2725690660-500,0,0,1,1
+315,80600-NTFS:\Windows\WinSxS\amd64_microsoft-windows-cleanmgr_31bf3856ad364e35_6.3.9600.16384_none_5e02966c3182d7a7\cleanmgr.exe,1,0,0,1
+316,41234-NTFS:\Windows\WinSxS\amd64_microsoft-windows-nfs-clientcore_31bf3856ad364e35_6.3.9600.16384_none_9da0dcc0168b1c98\nfsclnt.exe,1,0,0,1
+317,81242-NTFS:\Windows\WinSxS\amd64_microsoft-windows-isoburn_31bf3856ad364e35_6.3.9600.16384_none_d6f1072a6d324810\isoburn.exe,1,0,0,1
+318,72646-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-CHT.exe,1,0,0,1
+319,39669-NTFS:\Windows\WinSxS\amd64_microsoft-windows-i..lified-chinese-core_31bf3856ad364e35_6.3.9600.16384_none_08cfbdec1bea847e\IMSCPROP.exe,1,0,0,1
+320,41420-NTFS:\Windows\WinSxS\amd64_microsoft-windows-processmodel-cpt_31bf3856ad364e35_6.3.9600.16384_none_9b90ea864787cdaa\w3wp.exe,1,0,0,1
+321,80715-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..ssociationframework_31bf3856ad364e35_6.3.9600.16384_none_0a692bc5ce2c3f47\dasHost.exe,1,0,0,1
+322,42055-NTFS:\Windows\WinSxS\amd64_microsoft-windows-server-for-nis_31bf3856ad364e35_6.3.9600.16384_none_39b9aedc382f8a1e\ypcat.exe,1,0,0,1
+323,84272-NTFS:\Windows\WinSxS\wow64_microsoft-windows-explorer_31bf3856ad364e35_6.3.9600.16384_none_4cc7b16f8214372e\explorer.exe,1,0,0,1
+324,81054-NTFS:\Windows\WinSxS\amd64_microsoft-windows-i..etexplorer-optional_31bf3856ad364e35_11.0.9600.16384_none_9c7bbe6690ba5bc1\iexplore.exe,1,0,0,1
+325,83401-NTFS:\Windows\WinSxS\amd64_windowssearchengine_31bf3856ad364e35_7.0.9600.16384_none_d3bae839b1d5c468\SearchIndexer.exe,1,0,0,1
+326,87081-NTFS:\Windows\ServiceProfiles\NetworkService\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-20,1,0,0,1
+327,1005-NTFS:\ProgramData\Microsoft\Windows\SystemData\S-1-5-18\ReadOnly\LockScreen_Z\LockScreen___2068_1229.jpg,0,1,0,1
+328,42417-NTFS:\Windows\WinSxS\amd64_microsoft-windows-trustedinstaller_31bf3856ad364e35_6.3.9600.16384_none_81cb938f211dbc6f\TrustedInstaller.exe,1,0,0,1
+329,84090-NTFS:\Windows\WinSxS\msil_microsoft-windows-security-spp-vmw_31bf3856ad364e35_6.3.9600.16384_none_95ae1663bde9bafa\Vmw.exe,1,0,0,1
+330,72254-NTFS:\Windows\WinSxS\wow64_clientbackup-restorecdx86_31bf3856ad364e35_6.3.9600.16384_none_ec51d8679260ea57\ClientRestoreWizard.exe,1,0,0,1
+331,19635-NTFS:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\desktop.ini,0,1,0,1
+332,38147-NTFS:\Windows\WinSxS\amd64_microsoft-windows-b..environment-windows_31bf3856ad364e35_6.3.9600.16384_none_59f6f73560c1a48d\winresume.exe,1,0,0,1
+333,84415-NTFS:\Windows\WinSxS\x86_microsoft-windows-a..-experience-apphelp_31bf3856ad364e35_6.3.9600.16384_none_16a19e4d7c5ceb56\pcaui.exe,1,0,0,1
+334,73532-NTFS:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\desktop.ini,0,1,0,1
+335,85045-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\PrivacIE,1,0,0,1
+336,85039-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\UserData,1,0,0,1
+337,86971-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\NoJerry.lnk,0,1,0,1
+338,39286-NTFS:\Windows\WinSxS\amd64_microsoft-windows-f..rcluster-clusterexe_31bf3856ad364e35_6.3.9600.16384_none_03a450671f8cd953\cluster.exe,1,0,0,1
+339,192-NTFS:\ProgramData\Microsoft\Crypto\RSA\MachineKeys,0,0,1,1
+340,84795-NTFS:\Program Files\Common Files\VMware\Drivers\vmci\sockets,0,0,1,1
+341,72191-NTFS:\Windows\WinSxS\msil_servicemodelreg_b03f5f7f11d50a3a_6.3.9600.16384_none_65d9f56bc011cfa5\ServiceModelReg.exe,1,0,0,1
+342,72651-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-ESN.exe,1,0,0,1
+343,42165-NTFS:\Windows\WinSxS\amd64_microsoft-windows-smss-minwin_31bf3856ad364e35_6.3.9600.16384_none_6f1f364dbcc273d3\smss.exe,1,0,0,1
+345,34324-NTFS:\Windows\SysWOW64\WindowsPowerShell\v1.0\Modules\BitsTransfer\en-US\about_BITS_Cmdlets.help.txt,0,1,0,1
+346,84345-NTFS:\Windows\WinSxS\wow64_microsoft-windows-rascmak_31bf3856ad364e35_6.3.9600.16384_none_0b9f6aee810ca765\cmak.exe,1,0,0,1
+347,72778-NTFS:\Windows\WinSxS\x86_microsoft-windows-diskpart_31bf3856ad364e35_6.3.9600.16384_none_fd7829e1b1867c02\diskpart.exe,1,0,0,1
+348,73491-NTFS:\ProgramData\Microsoft\User Account Pictures\guest.bmp,0,1,0,1
+349,40961-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediafoundation_31bf3856ad364e35_6.3.9600.17031_none_8d50818ae092fb69\mfpmp.exe,1,0,0,1
+350,82584-NTFS:\Windows\WinSxS\amd64_microsoft-windows-telnet-server-tlntsvr_31bf3856ad364e35_6.3.9600.16384_none_af83065ec4c9afaa\tlntsvr.exe,1,0,0,1
+351,41225-NTFS:\Windows\WinSxS\amd64_microsoft-windows-nfs-admincmdtools_31bf3856ad364e35_6.3.9600.16384_none_a56c7cc166ff2b2a\rpcinfo.exe,1,0,0,1
+352,86966-NTFS:\FileShare\Secret,0,0,1,1
+353,72817-NTFS:\Windows\WinSxS\x86_microsoft-windows-ime-eashared-ccshared_31bf3856ad364e35_6.3.9600.16384_none_6ab9c96f95cbde33\IMCCPHR.exe,1,0,0,1
+354,129-NTFS:\Boot\zh-HK,0,0,1,1
+355,158-NTFS:\Boot\BCD.LOG,0,1,0,1
+356,81351-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_6.3.9600.17031_none_fc5b156e22eb0a7b\wmplayer.exe,1,0,0,1
+357,84346-NTFS:\Windows\WinSxS\wow64_microsoft-windows-rascmak_31bf3856ad364e35_6.3.9600.16384_none_0b9f6aee810ca765\rqc.exe,1,0,0,1
+358,84366-NTFS:\Windows\WinSxS\wow64_microsoft-windows-tabletpc-inputpanel_31bf3856ad364e35_6.3.9600.17035_none_0cd9138f7fb0c55b\TabTip32.exe,1,0,0,1
+360,87092-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\CustomDestinations\28c8b86deab549a1.customDestinations-ms,0,1,0,1
+361,34-NTFS:\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000002,0,1,0,1
+362,39954-NTFS:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.17031_none_01dac51388a3a832\appcmd.exe,1,0,0,1
+363,32551-NTFS:\Windows\WinSxS\amd64_microsoft-windows-e..rtingcore.resources_31bf3856ad364e35_6.3.9600.16384_en-us_f3d1eb210ac38e46\erofflps.txt,0,1,0,1
+364,86344-NTFS:\Program Files\Common Files\VMware\Drivers\vmxnet3\Win8,0,0,1,1
+365,85030-NTFS:\Users\Administrator\AppData\Roaming\Adobe\Flash Player\NativeCache,1,0,0,1
+366,83038-NTFS:\Windows\WinSxS\amd64_vmconnect6.2_31bf3856ad364e35_6.3.9600.16384_none_971840a9f05ddeea\vmconnect6.2.exe,1,0,0,1
+367,33-NTFS:\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000001,0,1,0,1
+368,72567-NTFS:\Windows\WinSxS\wow64_microsoft-windows-remoteassistance-exe_31bf3856ad364e35_6.3.9600.16389_none_327022fb0a391569\sdchange.exe,1,0,0,1
+369,39466-NTFS:\Windows\WinSxS\amd64_microsoft-windows-fsrm-cli_31bf3856ad364e35_6.3.9600.16384_none_2be2c2a1e7915e9d\filescrn.exe,1,0,0,1
+370,85373-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\Burn\Burn,1,0,0,1
+371,80503-NTFS:\Windows\WinSxS\amd64_microsoft-windows-asr-setup_31bf3856ad364e35_6.3.9600.16384_none_868321ab2fa2c47c\asrsetup.exe,1,0,0,1
+372,37684-NTFS:\Windows\WinSxS\amd64_microsoft-windows-newdev_31bf3856ad364e35_6.3.9600.16384_none_0234ab5f24a01e27\ndadmin.exe,1,0,0,1
+373,39980-NTFS:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.16384_none_01a7d2cf88c95dc0\iisreset.exe,1,0,0,1
+374,80768-NTFS:\Windows\WinSxS\amd64_microsoft-windows-eudcedit_31bf3856ad364e35_6.3.9600.16384_none_4a56e4b093752dad\eudcedit.exe,1,0,0,1
+375,37120-NTFS:\Windows\WinSxS\amd64_clientbackup-engine_31bf3856ad364e35_6.3.9600.16384_none_3f06e5ef5ebc928f\WSSBackupRepair.exe,1,0,0,1
+376,20490-NTFS:\ProgramData\Package Cache\{F3241984-5A0E-4632-9025-AA16E0780A4B}v14.20.27508\packages,0,0,1,1
+377,40967-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediaplayer-logagent_31bf3856ad364e35_6.3.9600.16384_none_dbfeec4295ffde93\logagent.exe,1,0,0,1
+378,43058-NTFS:\Windows\WinSxS\amd64_netfx4-aspnet_wp_exe_b03f5f7f11d50a3a_4.0.9600.16384_none_318e7ea6165a1dc3\aspnet_wp.exe,1,0,0,1
+379,41166-NTFS:\Windows\WinSxS\amd64_microsoft-windows-n..ervercmdtools-local_31bf3856ad364e35_6.3.9600.16384_none_65070695007ddc00\nfsfile.exe,1,0,0,1
+380,80694-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..ndowmanager-process_31bf3856ad364e35_6.3.9600.16384_none_24a5622a996ce4e5\dwm.exe,1,0,0,1
+381,73129-NTFS:\Windows\WinSxS\x86_microsoft-windows-wusa_31bf3856ad364e35_6.3.9600.16384_none_41a056043436706a\wusa.exe,1,0,0,1
+382,73709-NTFS:\Program Files\Common Files\VMware\Drivers\rawdsk\Win8,0,0,1,1
+383,73714-NTFS:\Program Files\Common Files\VMware\Drivers\hgfs\Win8,0,0,1,1
+384,35-NTFS:\Boot,0,0,1,1
+385,46626-NTFS:\Windows\WinSxS\amd64_updateservices-services_31bf3856ad364e35_6.3.9600.16384_none_6f837e94933e9c39\IISCustomAction.exe,1,0,0,1
+386,41764-NTFS:\Windows\WinSxS\amd64_microsoft-windows-rsat-server-for-nis_31bf3856ad364e35_6.3.9600.16384_none_c8d5e04e336a0267\ypclear.exe,1,0,0,1
+387,42045-NTFS:\Windows\WinSxS\amd64_microsoft-windows-server-for-nis_31bf3856ad364e35_6.3.9600.16384_none_39b9aedc382f8a1e\niscnfg.exe,1,0,0,1
+388,42297-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..iondirectory-server_31bf3856ad364e35_6.3.9600.16460_none_e44c6e76a70e6b41\tssdis.exe,1,0,0,1
+389,84339-NTFS:\Windows\WinSxS\wow64_microsoft-windows-r..sistance-dcomserver_31bf3856ad364e35_6.3.9600.16384_none_2b06aa507dea75be\raserver.exe,1,0,0,1
+390,72379-NTFS:\Windows\WinSxS\wow64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.16384_none_0bfc7d21bd2a1fbb\aspnetca.exe,1,0,0,1
+391,73274-NTFS:\Windows\WinSxS\amd64_microsoft-windows-ie-iediag_31bf3856ad364e35_11.0.9600.16384_none_1aa58f097445fa13\iediagcmd.exe,1,0,0,1
+392,42242-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..appserver-licensing_31bf3856ad364e35_6.3.9600.16384_none_97747b7f0f546ef4\tlsbln.exe,1,0,0,1
+393,81653-NTFS:\Windows\WinSxS\amd64_microsoft-windows-remoteassistance-exe_31bf3856ad364e35_6.3.9600.16384_none_28167736d5dcd4bb\msra.exe,1,0,0,1
+394,84232-NTFS:\Windows\WinSxS\msil_provisionshare_31bf3856ad364e35_6.3.9600.16384_none_fb8d9558a4084f9a\ProvisionShare.exe,1,0,0,1
+395,86975-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\Secret.lnk,0,1,0,1
+396,46747-NTFS:\Windows\WinSxS\amd64_wcf-smsvchost_b03f5f7f11d50a3a_6.3.9600.16384_none_0e7725391286d07d\SMSvcHost.exe,1,0,0,1
+397,87051-NTFS:\Users\Administrator\AppData\LocalLow\Microsoft\Windows,1,0,0,1
+398,42459-NTFS:\Windows\WinSxS\amd64_microsoft-windows-w..cationproxy-service_31bf3856ad364e35_6.3.9600.16384_none_c7da156a50b747be\AppProxy.exe,1,0,0,1
+399,81690-NTFS:\Windows\WinSxS\amd64_microsoft-windows-s..deployment-configui_31bf3856ad364e35_6.3.9600.16384_none_9eba28ad3f6e0d93\EssentialsRoleConfigWizard.exe,1,0,0,1
+400,42664-NTFS:\Windows\WinSxS\amd64_microsoft-windows-wmi-snmp-provider_31bf3856ad364e35_6.3.9600.16384_none_9b79de949ab6c4ea\smi2smir.exe,1,0,0,1
+401,39017-NTFS:\Windows\WinSxS\amd64_microsoft-windows-dns-server-dnscmd_31bf3856ad364e35_6.3.9600.16384_none_d7f4981f22184c33\dnscmd.exe,1,0,0,1
+402,81350-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_6.3.9600.16384_none_fc28232a2310c009\wmpconfig.exe,1,0,0,1
+403,82760-NTFS:\Windows\WinSxS\amd64_microsoft-windows-webcamexperience_31bf3856ad364e35_6.3.9600.16388_none_5dab317c7fc182bd\CameraSettingsUIHost.exe,1,0,0,1
+404,39497-NTFS:\Windows\WinSxS\amd64_microsoft-windows-ftp_31bf3856ad364e35_6.3.9600.16384_none_9da9bdfb2c81042a\ftp.exe,1,0,0,1
+405,42498-NTFS:\Windows\WinSxS\amd64_microsoft-windows-w..wsupdateclient-core_31bf3856ad364e35_7.9.9600.16384_none_422a08d4c13b3f3a\wuauclt.exe,1,0,0,1
+406,72395-NTFS:\Windows\WinSxS\wow64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.17031_none_0c2f6f65bd046a2d\iissetup.exe,1,0,0,1
+407,72375-NTFS:\Windows\WinSxS\wow64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.16384_none_0bfc7d21bd2a1fbb\appcmd.exe,1,0,0,1
+408,87104-NTFS:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\imagestore,1,0,0,1
+409,84791-NTFS:\Program Files\Common Files\VMware\Drivers\vmci\device\Win8,0,0,1,1
+410,86423-NTFS:\Program Files\VMware\VMware Tools\plugins\vmsvc,0,0,1,1
+412,86977-NTFS:\System Volume Information\DFSR\database_98E6_491B_E648_FAD0\dfsr.db,0,1,0,1
+413,43344-NTFS:\Windows\WinSxS\amd64_productivity-oim_31bf3856ad364e35_6.3.9600.16384_none_32901a2e60cc9da9\OIMUninstallWizard.exe,1,0,0,1
+414,38174-NTFS:\Windows\WinSxS\amd64_microsoft-windows-blb-cli-main_31bf3856ad364e35_6.3.9600.16384_none_3c133d2b62fcbed5\wbadmin.exe,1,0,0,1
+415,85043-NTFS:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\TabRoaming,1,0,0,1
+416,172-NTFS:\Program Files (x86)\Internet Explorer\SIGNUP,0,0,1,1
+417,37094-NTFS:\Windows\WinSxS\amd64_admin-dashboard_31bf3856ad364e35_6.3.9600.17016_none_81cf278062cf6fe8\Dashboard.exe,1,0,0,1
+418,81352-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_6.3.9600.16384_none_fc28232a2310c009\wmplayer.exe,1,0,0,1
+419,1003-NTFS:\ProgramData\Microsoft\Windows\SystemData\S-1-5-18\ReadOnly\LockScreen_Z\LockScreen___2068_1175.jpg,0,1,0,1
+420,86274-NTFS:\Windows\assembly\NativeImages_v4.0.30319_64\WsatConfig\da20e14332f9fbc3e179ecc269f1d88e\WsatConfig.ni.exe,0,1,0,1
+421,72747-NTFS:\Windows\WinSxS\x86_microsoft-windows-d..ing-management-core_31bf3856ad364e35_6.3.9600.16384_none_bfd3ea8c4658b072\DismHost.exe,1,0,0,1
+422,42153-NTFS:\Windows\WinSxS\amd64_microsoft-windows-smbhashgeneration_31bf3856ad364e35_6.3.9600.16384_none_d7527ecdb67bf62c\smbhash.exe,1,0,0,1
+423,81413-NTFS:\Windows\WinSxS\amd64_microsoft-windows-n..lancing-commandline_31bf3856ad364e35_6.3.9600.16384_none_a540fdc9ae759bb3\wlbs.exe,1,0,0,1
+424,81361-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediaplayer-setup_31bf3856ad364e35_6.3.9600.16384_none_9eb2298caa81e061\setup_wm.exe,1,0,0,1
+425,84471-NTFS:\Windows\WinSxS\x86_microsoft-windows-i..devicescontrolpanel_31bf3856ad364e35_6.3.9600.16384_none_b93f905b64bb42cc\ImagingDevices.exe,1,0,0,1
+426,72685-NTFS:\Windows\WinSxS\x86_microsoft-windows-convert_31bf3856ad364e35_6.3.9600.16384_none_31750f42c3ebc93d\autoconv.exe,1,0,0,1
+427,72726-NTFS:\Windows\WinSxS\x86_microsoft-windows-d..files-x86-minkernel_31bf3856ad364e35_6.3.9600.17031_none_989f055b7af773be\bootmgr.exe,1,0,0,1
+428,40959-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediafoundation_31bf3856ad364e35_6.3.9600.16384_none_8d1d8f46e0b8b0f7\rrinstaller.exe,1,0,0,1
+429,84491-NTFS:\Windows\WinSxS\x86_microsoft-windows-mail-app_31bf3856ad364e35_6.3.9600.16384_none_85f7f20f6b4ec839\WinMail.exe,1,0,0,1
+430,82647-NTFS:\Windows\WinSxS\amd64_microsoft-windows-w..cquisition-wiawow64_31bf3856ad364e35_6.3.9600.16384_none_bd3e5885c49b07ca\wiawow64.exe,1,0,0,1
+431,38308-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..e-japanese-moimeexe_31bf3856ad364e35_6.3.9600.16384_none_2ac8d1b88a3e5601\JpnIME.exe,1,0,0,1
+432,38156-NTFS:\Windows\WinSxS\amd64_microsoft-windows-b..ment-windows-minwin_31bf3856ad364e35_6.3.9600.16384_none_40aa0665cff59504\winload.exe,1,0,0,1
+433,84612-NTFS:\Windows\WinSxS\x86_microsoft-windows-wpd-shellextension_31bf3856ad364e35_6.3.9600.16384_none_a5c8b131e26347a3\WPDShextAutoplay.exe,1,0,0,1
+434,39989-NTFS:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.17031_none_01dac51388a3a832\iissetup.exe,1,0,0,1
+435,72566-NTFS:\Windows\WinSxS\wow64_microsoft-windows-remoteassistance-exe_31bf3856ad364e35_6.3.9600.16384_none_326b21890a3d96b6\msra.exe,1,0,0,1
+436,80588-NTFS:\Windows\WinSxS\amd64_microsoft-windows-charmap_31bf3856ad364e35_6.3.9600.16384_none_e3181d6978522d5c\charmap.exe,1,0,0,1
+437,85132-NTFS:\Users\Administrator\AppData\Local\Packages\windows.immersivecontrolpanel_cw5n1h2txyewy\LocalState,1,0,0,1
+438,82701-NTFS:\Windows\WinSxS\amd64_microsoft-windows-w..sition-uicomponents_31bf3856ad364e35_6.3.9600.16384_none_bfb2df6059429c88\wiaacmgr.exe,1,0,0,1
+439,42294-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..iondirectory-server_31bf3856ad364e35_6.3.9600.16384_none_e43acde0a71b0b58\tssdis.exe,1,0,0,1
+440,81994-NTFS:\Windows\WinSxS\amd64_microsoft-windows-s..ttings-removedevice_31bf3856ad364e35_6.3.9600.16384_none_a41f8e2dc959d3c3\SystemSettingsRemoveDevice.exe,1,0,0,1
+441,82758-NTFS:\Windows\WinSxS\amd64_microsoft-windows-web-app-host_31bf3856ad364e35_6.3.9600.16384_none_234e26e2a301ccd1\WWAHost.exe,1,0,0,1
+442,33323-NTFS:\ProgramData\VMware\VMware VGAuth\msgCatalogs\messages,0,0,1,1
+443,81354-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_6.3.9600.17031_none_fc5b156e22eb0a7b\wmpshare.exe,1,0,0,1
+444,72784-NTFS:\Windows\WinSxS\x86_microsoft-windows-errorreportingfaults_31bf3856ad364e35_6.3.9600.16384_none_04a6e1295862e677\WerFault.exe,1,0,0,1
+445,84367-NTFS:\Windows\WinSxS\wow64_microsoft-windows-tabletpc-inputpanel_31bf3856ad364e35_6.3.9600.17031_none_0cd512677fb45fff\TabTip32.exe,1,0,0,1
+446,20227-NTFS:\ProgramData\Package Cache,0,0,1,1
+447,72647-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-CHS.exe,1,0,0,1
+448,34294-NTFS:\Windows\WinSxS\amd64_microsoft-windows-p..ll-preloc.resources_31bf3856ad364e35_6.3.9600.16384_en-us_b270b2627564a35a\default.help.txt,0,1,0,1
+449,455-NTFS:\Windows\ServiceProfiles\NetworkService\AppData\Local\AutoTrace\Capture,1,0,0,1
+450,73100-NTFS:\Windows\WinSxS\x86_microsoft-windows-winre-recoverytools_31bf3856ad364e35_6.3.9600.16384_none_69ed98fb8cc2dfa6\ReAgentc.exe,1,0,0,1
+451,477-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\PowerShell\WF\PS,1,0,0,1
+452,81545-NTFS:\Windows\WinSxS\amd64_microsoft-windows-p..ting-tools-printbrm_31bf3856ad364e35_6.3.9600.16384_none_7278887f194b9a3e\PrintBrm.exe,1,0,0,1
+453,39302-NTFS:\Windows\WinSxS\amd64_microsoft-windows-f..overcluster-clussvc_31bf3856ad364e35_6.3.9600.16384_none_aa8009587582d414\clussvc.exe,1,0,0,1
+454,71699-NTFS:\Windows\WinSxS\msil_comsvcconfig_b03f5f7f11d50a3a_6.3.9600.16384_none_0695b04598a5ca34\ComSvcConfig.exe,1,0,0,1
+455,41027-NTFS:\Windows\WinSxS\amd64_microsoft-windows-migrationengine_31bf3856ad364e35_6.3.9600.17031_none_49992a01af114dba\mighost.exe,1,0,0,1
+456,82181-NTFS:\Windows\WinSxS\amd64_microsoft-windows-store-client-ui-images_31bf3856ad364e35_6.3.9600.16477_none_82cfe56e8c18f85a\tilelarge_textonlybg.png,0,1,0,1
+457,84318-NTFS:\Windows\WinSxS\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_6.3.9600.17031_none_06afbfc0574bcc76\wmpshare.exe,1,0,0,1
+458,81518-NTFS:\Windows\WinSxS\amd64_microsoft-windows-p..ting-lprportmonitor_31bf3856ad364e35_6.3.9600.16384_none_a4c2018c11c59f79\lpr.exe,1,0,0,1
+459,87134-NTFS:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\DomainSuggestions,1,0,0,1
+460,82761-NTFS:\Windows\WinSxS\amd64_microsoft-windows-webcamexperience_31bf3856ad364e35_6.3.9600.16384_none_5da730547fc51d61\CameraSettingsUIHost.exe,1,0,0,1
+461,42103-NTFS:\Windows\WinSxS\amd64_microsoft-windows-setup-component_31bf3856ad364e35_6.3.9600.16384_none_22eade5981394f0b\Setup.exe,1,0,0,1
+462,38220-NTFS:\Windows\WinSxS\amd64_microsoft-windows-convert_31bf3856ad364e35_6.3.9600.16384_none_8d93aac67c493a73\autoconv.exe,1,0,0,1
+463,42412-NTFS:\Windows\WinSxS\amd64_microsoft-windows-tieringengine_31bf3856ad364e35_6.3.9600.16384_none_a0362617386326ce\TieringEngineService.exe,1,0,0,1
+464,42913-NTFS:\Windows\WinSxS\amd64_microsoft.windows.s..oviderframeworkbase_31bf3856ad364e35_6.3.9600.16384_none_eecbc9c5260b91b4\RunTask.exe,1,0,0,1
+465,87088-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\INetCache\Low\IE,1,0,0,1
+466,42598-NTFS:\Windows\WinSxS\amd64_microsoft-windows-wid_31bf3856ad364e35_6.3.9600.16384_none_986967552fdc62b2\sqlservr.exe,1,0,0,1
+467,84155-NTFS:\Windows\WinSxS\msil_microsoft.storagemanagement.oobe_31bf3856ad364e35_6.3.9600.16384_none_983d7c2c96a8e0a1\CreatePool.exe,1,0,0,1
+468,38125-NTFS:\Windows\WinSxS\amd64_microsoft-windows-autochk_31bf3856ad364e35_6.3.9600.16384_none_d2b24d5495b82963\autochk.exe,1,0,0,1
+469,81401-NTFS:\Windows\WinSxS\amd64_microsoft-windows-n..ction_iis_ext_setup_31bf3856ad364e35_6.3.9600.16384_none_cef5c9046fb1fcda\nap-iis-ext-setup.exe,1,0,0,1
+470,19534-NTFS:\Windows\WinSxS\amd64_microsoft.windows.powershell.common_31bf3856ad364e35_6.3.9600.16384_none_219db062ef302354\Windows PowerShell (x86).lnk,0,1,0,1
+471,34294-NTFS:\Windows\SysWOW64\WindowsPowerShell\v1.0\en-US\default.help.txt,0,1,0,1
+472,80490-NTFS:\Windows\WinSxS\amd64_microsoft-windows-a..screencontentserver_31bf3856ad364e35_6.3.9600.16384_none_f805cbc97e7d5109\LockScreenContentServer.exe,1,0,0,1
+474,38012-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_607a8fc83c1f7915\WindowsServer2003.WindowsXP-KB943295-x64-DEU.exe,1,0,0,1
+475,81216-NTFS:\Windows\WinSxS\amd64_microsoft-windows-ie-setup-support_31bf3856ad364e35_11.0.9600.16384_none_c9961731416ddd5b\ie4uinit.exe,1,0,0,1
+476,87108-NTFS:\Users\Administrator\AppData\LocalLow\Microsoft\Internet Explorer,1,0,0,1
+477,39467-NTFS:\Windows\WinSxS\amd64_microsoft-windows-fsrm-cli_31bf3856ad364e35_6.3.9600.16384_none_2be2c2a1e7915e9d\storrept.exe,1,0,0,1
+478,40834-NTFS:\Windows\WinSxS\amd64_microsoft-windows-m..pathiocontroldriver_31bf3856ad364e35_6.3.9600.16384_none_0e2f9f94f0033fbb\mpclaim.exe,1,0,0,1
+479,72378-NTFS:\Windows\WinSxS\wow64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.17031_none_0c2f6f65bd046a2d\aspnetca.exe,1,0,0,1
+480,85134-NTFS:\Users\Administrator\AppData\Local\Packages\windows.immersivecontrolpanel_cw5n1h2txyewy\LocalState\Indexed\Settings,1,0,0,1
+481,43882-NTFS:\Windows\WinSxS\amd64_serverbackup-ui_31bf3856ad364e35_6.3.9600.16384_none_766d046db5dbe51b\ServerFFR.exe,1,0,0,1
+482,87031-NTFS:\Users\Administrator\AppData\Local\ElevatedDiagnostics,1,0,0,1
+483,20516-NTFS:\Windows\assembly\NativeImages_v4.0.30319_32\Microsoft.W71daf281#\be26a3df8bcf20be912896fba8462d2f\Microsoft.Workflow.Compiler.ni.exe,0,1,0,1
+484,84234-NTFS:\Windows\WinSxS\msil_setupnfsidmap_31bf3856ad364e35_6.3.9600.16384_none_c81202ada37bc3f9\SetupNfsIdMap.exe,1,0,0,1
+485,82456-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..nputpersonalization_31bf3856ad364e35_6.3.9600.17031_none_309d65449a25862e\InputPersonalization.exe,1,0,0,1
+486,87032-NTFS:\Users\Administrator\AppData\Local\ElevatedDiagnostics\460911090,1,0,0,1
+487,85053-NTFS:\Users\Administrator\AppData\Local\Temp\Low,1,0,0,1
+488,73670-NTFS:\ProgramData\VMware\VMware VGAuth\msgCatalogs\messages\en,0,0,1,1
+489,84980-NTFS:\Users\Administrator\AppData\Local\History,1,0,0,1
+490,84596-NTFS:\Windows\WinSxS\x86_microsoft-windows-webcamexperience_31bf3856ad364e35_6.3.9600.16384_none_018894d0c767ac2b\CameraSettingsUIHost.exe,1,0,0,1
+491,85046-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\PrivacIE\Low,1,0,0,1
+492,42613-NTFS:\Windows\WinSxS\amd64_microsoft-windows-wimgapi_31bf3856ad364e35_6.3.9600.16384_none_79ba0274e8d5902a\wimserv.exe,1,0,0,1
+493,20560-NTFS:\ProgramData\VMware\VMware VGAuth,0,0,1,1
+494,85025-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Internet Explorer.lnk,0,1,0,1
+495,38155-NTFS:\Windows\WinSxS\amd64_microsoft-windows-b..vironment-os-loader_31bf3856ad364e35_6.3.9600.16384_none_4be51a3d409de6bc\winload.exe,1,0,0,1
+496,75640-NTFS:\Windows\System32\AutoWorkplace.exe,1,0,0,1
+497,20573-NTFS:\Program Files\VMware\VMware Tools\VMware VGAuth\schemas,0,0,1,1
+498,80197-NTFS:\Windows\WinSxS\wow64_microsoft-windows-gpowershell-exe_31bf3856ad364e35_6.3.9600.16384_none_33a429ffaa0ce664\powershell_ise.exe,1,0,0,1
+499,84589-NTFS:\Windows\WinSxS\x86_microsoft-windows-w..sition-uicomponents_31bf3856ad364e35_6.3.9600.16384_none_639443dca0e52b52\wiaacmgr.exe,1,0,0,1
+500,38636-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..ing-management-core_31bf3856ad364e35_6.3.9600.16384_none_1bf2860ffeb621a8\DismHost.exe,1,0,0,1
+501,85118-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\Windows PowerShell.lnk,0,1,0,1
+502,183-NTFS:\ProgramData,0,0,1,1
+503,82575-NTFS:\Windows\WinSxS\amd64_microsoft-windows-tabletpc-inputpanel_31bf3856ad364e35_6.3.9600.17035_none_0284693d4b500360\TabTip.exe,1,0,0,1
+504,42915-NTFS:\Windows\WinSxS\amd64_microsoft.windows.s..oviderframeworkbase_31bf3856ad364e35_6.3.9600.16384_none_eecbc9c5260b91b4\SharedServiceHost.exe,1,0,0,1
+505,20494-NTFS:\ProgramData\Package Cache\{4931385B-094D-4DC5-BD6A-5188FE9C51DF}v14.20.27508\packages\vcRuntimeAdditional_amd64,0,0,1,1
+506,42017-NTFS:\Windows\WinSxS\amd64_microsoft-windows-securestartup-service_31bf3856ad364e35_6.3.9600.17044_none_558f374d78ee3e20\BdeUISrv.exe,1,0,0,1
+507,38017-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-guest-installer_31bf3856ad364e35_6.3.9600.16384_none_62636139f5b9fe65\setup.exe,1,0,0,1
+508,80197-NTFS:\Windows\SysWOW64\WindowsPowerShell\v1.0\powershell_ise.exe,1,0,0,1
+509,6-NTFS:\$Bitmap,0,1,0,1
+510,73672-NTFS:\ProgramData\VMware\VMware VGAuth\msgCatalogs\messages\es,0,0,1,1
+511,84420-NTFS:\Windows\WinSxS\x86_microsoft-windows-audio-volumecontrol_31bf3856ad364e35_6.3.9600.16384_none_5ac835ee231394e2\SndVol.exe,1,0,0,1
+512,19401-NTFS:\BOOTNXT,0,1,0,1
+513,80477-NTFS:\Windows\WinSxS\amd64_microsoft-windows-a..ion-telemetry-agent_31bf3856ad364e35_6.3.9600.16384_none_c32ab1e83a987d3e\aitagent.exe,1,0,0,1
+514,87128-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\AppCache\IDUL349A,1,0,0,1
+515,84876-NTFS:\Users\Administrator\Pictures,0,1,0,1
+516,72799-NTFS:\Windows\WinSxS\x86_microsoft-windows-ftp_31bf3856ad364e35_6.3.9600.16384_none_418b2277742392f4\ftp.exe,1,0,0,1
+517,46818-NTFS:\Windows\WinSxS\amd64_windowssearchengine_31bf3856ad364e35_7.0.9600.17031_none_d3edda7db1b00eda\SearchProtocolHost.exe,1,0,0,1
+518,7-NTFS:\$Boot,0,1,0,1
+519,37978-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-drivers-hypervisor_31bf3856ad364e35_6.3.9600.16384_none_210fb36c397c4e2b\hvix64.exe,1,0,0,1
+520,46816-NTFS:\Windows\WinSxS\amd64_windowssearchengine_31bf3856ad364e35_7.0.9600.17031_none_d3edda7db1b00eda\SearchFilterHost.exe,1,0,0,1
+521,84180-NTFS:\Windows\WinSxS\msil_microsoft.storagemanagement.oobe_31bf3856ad364e35_6.3.9600.16384_none_983d7c2c96a8e0a1\PrepareCluster.exe,1,0,0,1
+522,43232-NTFS:\Windows\WinSxS\amd64_onlineservices-ui_31bf3856ad364e35_6.3.9600.16384_none_545bfc949bff90ef\InstallAddin.exe,1,0,0,1
+524,39833-NTFS:\Windows\WinSxS\amd64_microsoft-windows-i..tional-chinese-core_31bf3856ad364e35_6.3.9600.16384_none_4a425d97d4ef137f\IMTCPROP.exe,1,0,0,1
+525,72744-NTFS:\System Volume Information\DFSR\database_98E6_491B_E648_FAD0,0,0,1,1
+526,84894-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\SendTo,0,1,0,1
+527,72198-NTFS:\Windows\WinSxS\msil_smsvchost_b03f5f7f11d50a3a_6.3.9600.16384_none_2d66ff7b187d2243\SMSvcHost.exe,1,0,0,1
+528,72666-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-RUS.exe,1,0,0,1
+529,72697-NTFS:\ProgramData\Microsoft\Windows\SystemData\S-1-5-18\ReadOnly\LockScreen_Z\LockScreen___2306_1230.jpg,0,1,0,1
+530,84630-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\PortalGunPlans.lnk,0,1,0,1
+531,41251-NTFS:\Windows\WinSxS\amd64_microsoft-windows-nfs-servercore_31bf3856ad364e35_6.3.9600.16384_none_4c63087edb42b972\nfssvc.exe,1,0,0,1
+532,76404-NTFS:\Windows\WinSxS\msil_microsoft-windows-servermanager-shell_31bf3856ad364e35_6.3.9600.16384_none_9914c2521d6e1d6c\ServerManager.exe,1,0,0,1
+533,81703-NTFS:\Windows\WinSxS\amd64_microsoft-windows-s..estartup-change-pin_31bf3856ad364e35_6.3.9600.16384_none_e25b1771286045ff\bdechangepin.exe,1,0,0,1
+534,43879-NTFS:\Windows\WinSxS\amd64_serverbackup-ui_31bf3856ad364e35_6.3.9600.16384_none_766d046db5dbe51b\SBCW.exe,1,0,0,1
+535,72798-NTFS:\Windows\WinSxS\x86_microsoft-windows-fsutil_31bf3856ad364e35_6.3.9600.16384_none_6103d9000b86316f\fsutil.exe,1,0,0,1
+536,72290-NTFS:\Windows\WinSxS\wow64_microsoft-windows-failovercluster-rhs_31bf3856ad364e35_6.3.9600.16384_none_2d65f8b7d7ccf30f\rhs.exe,1,0,0,1
+537,83398-NTFS:\Windows\WinSxS\amd64_windowssearchengine_31bf3856ad364e35_7.0.9600.16384_none_d3bae839b1d5c468\SearchFilterHost.exe,1,0,0,1
+538,40846-NTFS:\Windows\WinSxS\amd64_microsoft-windows-m..pathiocontroldriver_31bf3856ad364e35_6.3.9600.16384_none_0e2f9f94f0033fbb\mpiocpl.exe,1,0,0,1
+539,39924-NTFS:\Windows\WinSxS\amd64_microsoft-windows-iis-metabase_31bf3856ad364e35_6.3.9600.16384_none_29f057dff5ea281a\inetinfo.exe,1,0,0,1
+540,42388-NTFS:\Windows\WinSxS\amd64_microsoft-windows-taskhost_31bf3856ad364e35_6.3.9600.16384_none_18fd08642e4cdf6d\taskhost.exe,1,0,0,1
+541,78827-NTFS:\ProgramData\Microsoft\Windows\SystemData\S-1-5-18\ReadOnly\LockScreen_Z\LockScreen___2306_1229.jpg,0,1,0,1
+542,39225-NTFS:\Windows\WinSxS\amd64_microsoft-windows-f..cluster-updating-ui_31bf3856ad364e35_6.3.9600.16496_none_2662a05e54e38cec\ClusterUpdateUI.exe,1,0,0,1
+543,46715-NTFS:\Windows\WinSxS\amd64_wcf-comsvcconfig_b03f5f7f11d50a3a_6.3.9600.16384_none_998c42657b1e42a2\ComSvcConfig.exe,1,0,0,1
+544,85076-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\Ringtones,1,0,0,1
+545,86642-NTFS:\ProgramData\VMware\RawdskCompatibility\native,0,0,1,1
+546,84890-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools,0,1,0,1
+547,26-NTFS:\$Extend\$Reparse,0,1,0,1
+548,38689-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..ommandline-adamsync_31bf3856ad364e35_6.3.9600.16384_none_e2e12d03f2983b03\adamsync.exe,1,0,0,1
+549,20180-NTFS:\Program Files\Common Files\VMware,0,0,1,1
+550,42081-NTFS:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.3.9600.16384_none_fa1dc1539b4180d8\TiWorker.exe,1,0,0,1
+551,72665-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-SVE.exe,1,0,0,1
+552,38275-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..adam-install-srvfnd_31bf3856ad364e35_6.3.9600.16384_none_c670bf7d65e6b61f\adamuninstall.exe,1,0,0,1
+553,41247-NTFS:\Windows\WinSxS\amd64_microsoft-windows-nfs-servercmdtools_31bf3856ad364e35_6.3.9600.16384_none_791c0637ca72cdb0\nfsshare.exe,1,0,0,1
+554,73608-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\SchCache,1,0,0,1
+555,81355-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_6.3.9600.16384_none_fc28232a2310c009\wmpshare.exe,1,0,0,1
+556,37984-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-drivers-hypervisor_31bf3856ad364e35_6.3.9600.16384_none_210fb36c397c4e2b\hvloader.exe,1,0,0,1
+557,42456-NTFS:\Windows\WinSxS\amd64_microsoft-windows-w..bappproxycontroller_31bf3856ad364e35_6.3.9600.16384_none_62ad9344cc0b1680\WebAppProxyController.exe,1,0,0,1
+558,84315-NTFS:\Windows\WinSxS\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_6.3.9600.16384_none_067ccd7c57718204\wmpconfig.exe,1,0,0,1
+559,86428-NTFS:\Program Files\VMware\VMware Tools\plugins\vmusr,0,0,1,1
+560,38180-NTFS:\Windows\WinSxS\amd64_microsoft-windows-blb-engine-main_31bf3856ad364e35_6.3.9600.16384_none_d4a05602d3b6ef4d\wbengine.exe,1,0,0,1
+561,42074-NTFS:\Windows\WinSxS\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_6.3.9600.16384_none_fa1dc1539b4180d8\poqexec.exe,1,0,0,1
+562,38010-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_607a8fc83c1f7915\WindowsServer2003.WindowsXP-KB943295-x64-CHT.exe,1,0,0,1
+563,84893-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility,0,1,0,1
+564,81384-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mobsyncexe_31bf3856ad364e35_6.3.9600.16384_none_e00f3999284c2471\mobsync.exe,1,0,0,1
+565,73153-NTFS:\Windows\WinSxS\x86_netfx-aspnet_wp_exe_b03f5f7f11d50a3a_6.3.9600.16463_none_dff4259750565110\aspnet_wp.exe,1,0,0,1
+566,82586-NTFS:\Windows\WinSxS\amd64_microsoft-windows-telnet-server_31bf3856ad364e35_6.3.9600.16384_none_83c63cfc230cd484\tlntadmn.exe,1,0,0,1
+567,71723-NTFS:\Windows\WinSxS\msil_microsoft-windows-iis-ual_31bf3856ad364e35_6.3.9600.16384_none_ecb071077d70fe4d\iisual.exe,1,0,0,1
+568,42440-NTFS:\Windows\WinSxS\amd64_microsoft-windows-virtualdiskservice_31bf3856ad364e35_6.3.9600.16384_none_5ba932aacea5a2ad\vds.exe,1,0,0,1
+569,76405-NTFS:\Windows\System32\ServerTelemetryConfig.exe,1,0,0,1
+570,163-NTFS:\System Volume Information\tracking.log,0,1,0,1
+571,84156-NTFS:\Windows\WinSxS\msil_microsoft.storagemanagement.oobe_31bf3856ad364e35_6.3.9600.16384_none_983d7c2c96a8e0a1\CreateVirtualDisk.exe,1,0,0,1
+572,40958-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediafoundation_31bf3856ad364e35_6.3.9600.17031_none_8d50818ae092fb69\rrinstaller.exe,1,0,0,1
+573,72773-NTFS:\Windows\WinSxS\x86_microsoft-windows-deployment_31bf3856ad364e35_6.3.9600.16384_none_908ebb5208e79761\setupugc.exe,1,0,0,1
+574,80808-NTFS:\Windows\WinSxS\amd64_microsoft-windows-f..client-applications_31bf3856ad364e35_6.3.9600.16384_none_69b80c71fc5d6b55\WFS.exe,1,0,0,1
+575,85094-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup,1,0,0,1
+576,72896-NTFS:\Windows\WinSxS\x86_microsoft-windows-packagemanager_31bf3856ad364e35_6.3.9600.16384_none_817788a30edddae5\PkgMgr.exe,1,0,0,1
+577,71932-NTFS:\Windows\WinSxS\msil_microsoft.identityserver.proxyservice_31bf3856ad364e35_6.3.9600.16477_none_46ee2d31e9308eb5\Microsoft.IdentityServer.ProxyService.exe,1,0,0,1
+578,8-NTFS:\$BadClus,0,1,0,1
+579,81547-NTFS:\Windows\WinSxS\amd64_microsoft-windows-p..ting-tools-printbrm_31bf3856ad364e35_6.3.9600.16384_none_7278887f194b9a3e\PrintBrmEngine.exe,1,0,0,1
+580,39955-NTFS:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.16384_none_01a7d2cf88c95dc0\appcmd.exe,1,0,0,1
+581,41337-NTFS:\Windows\WinSxS\amd64_microsoft-windows-packagemanager_31bf3856ad364e35_6.3.9600.16384_none_dd962426c73b4c1b\PkgMgr.exe,1,0,0,1
+582,38270-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..adam-install-srvfnd_31bf3856ad364e35_6.3.9600.16384_none_c670bf7d65e6b61f\adaminstall.exe,1,0,0,1
+583,72834-NTFS:\Windows\WinSxS\x86_microsoft-windows-mediaplayer-logagent_31bf3856ad364e35_6.3.9600.16384_none_7fe050bedda26d5d\logagent.exe,1,0,0,1
+584,41294-NTFS:\Windows\WinSxS\amd64_microsoft-windows-os-kernel_31bf3856ad364e35_6.3.9600.16384_none_5ceec1ab881a18dc\ntoskrnl.exe,1,0,0,1
+585,42626-NTFS:\Windows\WinSxS\amd64_microsoft-windows-winre-recoverytools_31bf3856ad364e35_6.3.9600.16384_none_c60c347f452050dc\ReAgentc.exe,1,0,0,1
+586,37992-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-drivers-hypervisor_31bf3856ad364e35_6.3.9600.17031_none_2142a5b03956989d\hvax64.exe,1,0,0,1
+587,43876-NTFS:\Windows\WinSxS\amd64_serverbackup-ui_31bf3856ad364e35_6.3.9600.16384_none_766d046db5dbe51b\CreateKeyWizard.exe,1,0,0,1
+588,86393-NTFS:\Program Files\VMware\VMware Tools\messages\zh_TW,0,0,1,1
+589,43925-NTFS:\Windows\WinSxS\amd64_storage-utility_31bf3856ad364e35_6.3.9600.16384_none_57dfe02cdff082bb\SuChkVol.exe,1,0,0,1
+590,81999-NTFS:\Windows\WinSxS\amd64_microsoft-windows-s..up-drivepreparation_31bf3856ad364e35_6.3.9600.17044_none_91db0a9c3cd43286\BdeHdCfg.exe,1,0,0,1
+591,39216-NTFS:\Windows\WinSxS\amd64_microsoft-windows-f..cluster-agentserver_31bf3856ad364e35_6.3.9600.16384_none_28d2f8b631c36649\CPrepSrv.exe,1,0,0,1
+592,76024-NTFS:\Windows\System32\LbfoAdmin.exe,1,0,0,1
+593,82604-NTFS:\Windows\WinSxS\amd64_microsoft-windows-tsproxy-edgeadapter_31bf3856ad364e35_6.3.9600.16384_none_2ec8d374a0ac5606\tsgclean.exe,1,0,0,1
+594,76024-NTFS:\Windows\WinSxS\amd64_microsoft-windows-ndis-lbfo-admin_31bf3856ad364e35_6.3.9600.16384_none_e13bc85af8d379ac\LbfoAdmin.exe,1,0,0,1
+595,4-NTFS:\$AttrDef,0,1,0,1
+596,72584-NTFS:\Windows\WinSxS\wow64_microsoft-windows-snmp-agent-service_31bf3856ad364e35_6.3.9600.16384_none_f247ebc4609aa13b\snmp.exe,1,0,0,1
+597,457-NTFS:\Windows\ServiceProfiles\NetworkService\AppData\Local\AutoTrace\Transfer,1,0,0,1
+598,72655-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-HUN.exe,1,0,0,1
+599,42151-NTFS:\Windows\WinSxS\amd64_microsoft-windows-smbhashgeneration_31bf3856ad364e35_6.3.9600.16384_none_d7527ecdb67bf62c\HashGen.exe,1,0,0,1
+600,34294-NTFS:\Windows\System32\WindowsPowerShell\v1.0\en-US\default.help.txt,0,1,0,1
+601,84447-NTFS:\Windows\WinSxS\x86_microsoft-windows-d..files-x86-minkernel_31bf3856ad364e35_6.3.9600.16384_none_986c13177b1d294c\bootmgr.exe,1,0,0,1
+602,39077-NTFS:\Windows\WinSxS\amd64_microsoft-windows-e..seclientsync-server_31bf3856ad364e35_6.3.9600.16384_none_6843310e4fe153ad\SyncShareTTSvc.exe,1,0,0,1
+603,42112-NTFS:\Windows\WinSxS\amd64_microsoft-windows-setup-component_31bf3856ad364e35_6.3.9600.16384_none_22eade5981394f0b\windeploy.exe,1,0,0,1
+604,72253-NTFS:\Windows\WinSxS\wow64_clientbackup-restorecdx86_31bf3856ad364e35_6.3.9600.16384_none_ec51d8679260ea57\RestoreCDInit.exe,1,0,0,1
+605,85003-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\SystemCertificates,1,0,0,1
+606,9-NTFS:\$Secure,0,1,0,1
+607,81651-NTFS:\Windows\WinSxS\amd64_microsoft-windows-reliability-postboot_31bf3856ad364e35_6.3.9600.16384_none_3e7f303cd949e081\RelPost.exe,1,0,0,1
+608,38962-NTFS:\System Volume Information\DFSR\Config,0,0,1,1
+609,82628-NTFS:\Windows\WinSxS\amd64_microsoft-windows-utilman_31bf3856ad364e35_6.3.9600.16384_none_f3680ffa05345546\Utilman.exe,1,0,0,1
+610,46656-NTFS:\Windows\WinSxS\amd64_updateservices-services_31bf3856ad364e35_6.3.9600.16384_none_6f837e94933e9c39\WSusCertServer.exe,1,0,0,1
+611,84982-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\Temporary Internet Files,1,0,0,1
+612,31-NTFS:\$Extend\$RmMetadata\$TxfLog\$Tops,0,1,0,1
+613,80742-NTFS:\Windows\WinSxS\amd64_microsoft-windows-dfsr-util-dfsrdiag_31bf3856ad364e35_6.3.9600.16384_none_ca7c6062bf7e72d9\dfsrdiag.exe,1,0,0,1
+614,20491-NTFS:\ProgramData\Package Cache\{F3241984-5A0E-4632-9025-AA16E0780A4B}v14.20.27508\packages\vcRuntimeMinimum_amd64,0,0,1,1
+615,82897-NTFS:\Windows\WinSxS\amd64_microsoft-windows-wpd-shellextension_31bf3856ad364e35_6.3.9600.16384_none_01e74cb59ac0b8d9\WPDShextAutoplay.exe,1,0,0,1
+616,80699-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..ostic-user-resolver_31bf3856ad364e35_6.3.9600.16384_none_b5f36520d9a6027b\DFDWiz.exe,1,0,0,1
+617,81349-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_6.3.9600.17031_none_fc5b156e22eb0a7b\wmpconfig.exe,1,0,0,1
+618,38247-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..-eashared-imebroker_31bf3856ad364e35_6.3.9600.16384_none_7a7ca547cb77d4c0\ImeBroker.exe,1,0,0,1
+619,81359-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediaplayer-setup_31bf3856ad364e35_6.3.9600.17031_none_9ee51bd0aa5c2ad3\unregmp2.exe,1,0,0,1
+620,72559-NTFS:\Windows\WinSxS\wow64_microsoft-windows-processmodel-cpt_31bf3856ad364e35_6.3.9600.16384_none_a5e594d87be88fa5\w3wp.exe,1,0,0,1
+621,39215-NTFS:\Windows\WinSxS\amd64_microsoft-windows-f..cluster-agentserver_31bf3856ad364e35_6.3.9600.16384_none_28d2f8b631c36649\FcSrv.exe,1,0,0,1
+622,84083-NTFS:\Windows\WinSxS\msil_damgmtmanaged_31bf3856ad364e35_6.3.9600.16384_none_0e8ac21d37beaf95\RAMgmtUI.exe,1,0,0,1
+623,81229-NTFS:\Windows\WinSxS\amd64_microsoft-windows-iis-legacysnapin_31bf3856ad364e35_6.3.9600.16384_none_71df341285fd043e\InetMgr6.exe,1,0,0,1
+624,81635-NTFS:\Windows\WinSxS\amd64_microsoft-windows-rascmak_31bf3856ad364e35_6.3.9600.16384_none_014ac09c4cabe56a\cmak.exe,1,0,0,1
+625,84497-NTFS:\Windows\WinSxS\x86_microsoft-windows-mediaplayer-setup_31bf3856ad364e35_6.3.9600.17031_none_42c6804cf1feb99d\setup_wm.exe,1,0,0,1
+626,43286-NTFS:\Windows\WinSxS\amd64_productivity-common_31bf3856ad364e35_6.3.9600.16384_none_4c2551e6ee52b3c5\ConfigWizard.exe,1,0,0,1
+627,84446-NTFS:\Windows\WinSxS\x86_microsoft-windows-d..directplay8-payload_31bf3856ad364e35_6.3.9600.16384_none_981faceedf7ef99e\dpnsvr.exe,1,0,0,1
+628,41974-NTFS:\Windows\WinSxS\amd64_microsoft-windows-s..restartup-baaupdate_31bf3856ad364e35_6.3.9600.16384_none_270d2697a71f18ac\baaupdate.exe,1,0,0,1
+629,82048-NTFS:\Windows\WinSxS\amd64_microsoft-windows-security-easinvoker_31bf3856ad364e35_6.3.9600.16384_none_7ce2a18681f197b8\easinvoker.exe,1,0,0,1
+630,37121-NTFS:\Windows\WinSxS\amd64_clientbackup-engine_31bf3856ad364e35_6.3.9600.16384_none_3f06e5ef5ebc928f\WSSBackup.exe,1,0,0,1
+631,81412-NTFS:\Windows\WinSxS\amd64_microsoft-windows-n..lancing-commandline_31bf3856ad364e35_6.3.9600.16384_none_a540fdc9ae759bb3\nlb.exe,1,0,0,1
+632,87142-NTFS:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\Recovery\High\Last Active,1,0,0,1
+634,84657-NTFS:\System Volume Information\MountPointManagerRemoteDatabase,0,1,0,1
+635,72490-NTFS:\Windows\WinSxS\wow64_microsoft-windows-mediafoundation_31bf3856ad364e35_6.3.9600.16384_none_97723999151972f2\mfpmp.exe,1,0,0,1
+636,19540-NTFS:\ProgramData\Microsoft\Windows\Start Menu\Programs\System Tools\Windows PowerShell.lnk,0,1,0,1
+637,84332-NTFS:\Windows\WinSxS\wow64_microsoft-windows-mobsyncexe_31bf3856ad364e35_6.3.9600.16384_none_ea63e3eb5cace66c\mobsync.exe,1,0,0,1
+638,81266-NTFS:\Windows\WinSxS\amd64_microsoft-windows-m..yer-sideshow-gadget_31bf3856ad364e35_6.3.9600.16384_none_18e802f882e92761\WMPSideShowGadget.exe,1,0,0,1
+639,85040-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Internet Explorer\UserData\Low,1,0,0,1
+640,85130-NTFS:\Users\Administrator\AppData\Local\Packages,1,0,0,1
+641,84317-NTFS:\Windows\WinSxS\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_6.3.9600.16384_none_067ccd7c57718204\wmplayer.exe,1,0,0,1
+642,87026-NTFS:\Windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\Network\Connections\Pbk,1,0,0,1
+643,37988-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-drivers-hypervisor_31bf3856ad364e35_6.3.9600.17031_none_2142a5b03956989d\hvix64.exe,1,0,0,1
+644,41226-NTFS:\Windows\WinSxS\amd64_microsoft-windows-nfs-admincmdtools_31bf3856ad364e35_6.3.9600.16384_none_a56c7cc166ff2b2a\showmount.exe,1,0,0,1
+645,82854-NTFS:\Windows\WinSxS\amd64_microsoft-windows-wlan-extension_31bf3856ad364e35_6.3.9600.16384_none_eaa18f38f7508f70\wlanext.exe,1,0,0,1
+646,37139-NTFS:\Windows\WinSxS\amd64_clientbackup-restorecd_31bf3856ad364e35_6.3.9600.16384_none_a2f5f88f06574944\ClientRestoreWizard.exe,1,0,0,1
+647,84314-NTFS:\Windows\WinSxS\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_6.3.9600.17031_none_06afbfc0574bcc76\wmpconfig.exe,1,0,0,1
+648,86389-NTFS:\Program Files\VMware\VMware Tools\messages\ko,0,0,1,1
+649,39496-NTFS:\Windows\WinSxS\amd64_microsoft-windows-fsutil_31bf3856ad364e35_6.3.9600.16384_none_bd227483c3e3a2a5\fsutil.exe,1,0,0,1
+650,87064-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\SECRET_beth.lnk,0,1,0,1
+651,72675-NTFS:\Windows\WinSxS\x86_microsoft-windows-autochk_31bf3856ad364e35_6.3.9600.16384_none_7693b1d0dd5ab82d\autochk.exe,1,0,0,1
+652,86970-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\f01b4d95cf55d32a.automaticDestinations-ms,0,1,0,1
+653,475-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\PowerShell\WF,1,0,0,1
+654,80735-NTFS:\Windows\WinSxS\amd64_microsoft-windows-defrag-adminui_31bf3856ad364e35_6.3.9600.16384_none_89d46ec9643bf9dd\dfrgui.exe,1,0,0,1
+655,43373-NTFS:\Windows\WinSxS\amd64_productivity-ope_31bf3856ad364e35_6.3.9600.16384_none_3297d27460c58202\ARRConfig.exe,1,0,0,1
+656,1-NTFS:\$MFTMirr,0,1,0,1
+657,86967-NTFS:\FileShare\Secret\NoJerry.txt,0,1,0,1
+658,23791-NTFS:\Users\Default\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\System Tools\desktop.ini,0,1,0,1
+659,72265-NTFS:\Windows\WinSxS\wow64_clientdeployment-packagex86.resources_31bf3856ad364e35_6.3.9600.16384_en-us_fc95a55602f77fa4\ComputerConnector.exe,1,0,0,1
+660,42218-NTFS:\Windows\WinSxS\amd64_microsoft-windows-srdelayed_31bf3856ad364e35_6.3.9600.16384_none_471bb7de301ea141\srdelayed.exe,1,0,0,1
+661,41233-NTFS:\Windows\WinSxS\amd64_microsoft-windows-nfs-clientcmdtools_31bf3856ad364e35_6.3.9600.16384_none_4221c32dc469340a\umount.exe,1,0,0,1
+662,80531-NTFS:\Windows\WinSxS\amd64_microsoft-windows-bitsextensions-setup_31bf3856ad364e35_6.3.9600.16384_none_fa0e4e8dfde107e8\bitsiissetup.exe,1,0,0,1
+663,85569-NTFS:\Users\Administrator\AppData\Local\Microsoft_Corporation,1,0,0,1
+664,84480-NTFS:\Windows\WinSxS\x86_microsoft-windows-ie-ielowutil_31bf3856ad364e35_11.0.9600.16384_none_ae1cd2af9bd1dce2\ielowutil.exe,1,0,0,1
+665,82538-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..vercommandlinetools_31bf3856ad364e35_6.3.9600.16384_none_ab01eeed78ba027b\tsprof.exe,1,0,0,1
+666,76405-NTFS:\Windows\WinSxS\msil_microsoft-windows-servertelemetry-config_31bf3856ad364e35_6.3.9600.16384_none_8591f8ef40fac5c4\ServerTelemetryConfig.exe,1,0,0,1
+667,87105-NTFS:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\imagestore\01oghj3,1,0,0,1
+668,80809-NTFS:\Windows\WinSxS\amd64_microsoft-windows-f..cluster-updating-ui_31bf3856ad364e35_6.3.9600.16384_none_266b6dd054dd4126\ClusterUpdateUI.exe,1,0,0,1
+669,72635-NTFS:\Windows\WinSxS\wow64_windowssearchengine_31bf3856ad364e35_7.0.9600.17031_none_de4284cfe610d0d5\SearchProtocolHost.exe,1,0,0,1
+670,72696-NTFS:\Windows\WinSxS\x86_microsoft-windows-d..andlinepropertytool_31bf3856ad364e35_6.3.9600.16384_none_9fdd136f9c73f5dc\imjpuexc.exe,1,0,0,1
+671,57-NTFS:\Boot\es-ES,0,0,1,1
+672,19539-NTFS:\Windows\WinSxS\amd64_microsoft.windows.powershell.common_31bf3856ad364e35_6.3.9600.16384_none_219db062ef302354\Windows PowerShell.lnk,0,1,0,1
+673,81360-NTFS:\Windows\WinSxS\amd64_microsoft-windows-mediaplayer-setup_31bf3856ad364e35_6.3.9600.16384_none_9eb2298caa81e061\unregmp2.exe,1,0,0,1
+674,72634-NTFS:\Windows\WinSxS\wow64_windowssearchengine_31bf3856ad364e35_7.0.9600.17031_none_de4284cfe610d0d5\SearchFilterHost.exe,1,0,0,1
+675,73680-NTFS:\ProgramData\VMware\VMware VGAuth\msgCatalogs\messages\ko,0,0,1,1
+676,38150-NTFS:\Windows\WinSxS\amd64_microsoft-windows-b..iondata-cmdlinetool_31bf3856ad364e35_6.3.9600.16384_none_78e95cd07922a6bf\bcdedit.exe,1,0,0,1
+677,73678-NTFS:\ProgramData\VMware\VMware VGAuth\msgCatalogs\messages\ja,0,0,1,1
+678,81678-NTFS:\Windows\WinSxS\amd64_microsoft-windows-s..client-ui-wscollect_31bf3856ad364e35_6.3.9600.16384_none_fa71c798057c9e21\WSCollect.exe,1,0,0,1
+679,38037-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_607a8fc83c1f7915\WindowsServer2003.WindowsXP-KB943295-x64-KOR.exe,1,0,0,1
+680,41298-NTFS:\Windows\WinSxS\amd64_microsoft-windows-p..nfiguration-cmdline_31bf3856ad364e35_6.3.9600.16384_none_fa1a184254b62adc\powercfg.exe,1,0,0,1
+681,46755-NTFS:\Windows\WinSxS\amd64_wcf-wsatconfig_b03f5f7f11d50a3a_6.3.9600.16384_none_1e7f42b12b6c51f0\WsatConfig.exe,1,0,0,1
+682,39374-NTFS:\Windows\WinSxS\amd64_microsoft-windows-f..toragereportservice_31bf3856ad364e35_6.3.9600.16384_none_1b6ed2608947a3ab\srmhost.exe,1,0,0,1
+683,96-NTFS:\Boot\pt-BR,0,0,1,1
+684,83515-NTFS:\Program Files\Common Files\VMware\Drivers\efifw\Win8,0,0,1,1
+685,72374-NTFS:\Windows\WinSxS\wow64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.17031_none_0c2f6f65bd046a2d\appcmd.exe,1,0,0,1
+686,41154-NTFS:\Windows\WinSxS\amd64_microsoft-windows-muicachebuilder_31bf3856ad364e35_6.3.9600.16384_none_0acafc4688cf5b5c\mcbuilder.exe,1,0,0,1
+687,85443-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\Notifications,1,0,0,1
+688,86654-NTFS:\ProgramData\VMware\RawdskCompatibility\native\regdata.dat,0,1,0,1
+689,41540-NTFS:\Windows\WinSxS\amd64_microsoft-windows-r..pdate-oob-component_31bf3856ad364e35_6.3.9600.16384_none_de54eeb678590421\rdvgm.exe,1,0,0,1
+690,84073-NTFS:\Windows\WinSxS\msil_inspectvhddialog6.2_31bf3856ad364e35_6.3.9600.16384_none_b8967635f3268c78\InspectVhdDialog6.2.exe,1,0,0,1
+691,86910-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Credentials,1,0,0,1
+692,72700-NTFS:\Windows\WinSxS\x86_microsoft-windows-d..ervicing-management_31bf3856ad364e35_6.3.9600.16384_none_f349679f29460084\Dism.exe,1,0,0,1
+693,72533-NTFS:\Windows\WinSxS\wow64_microsoft-windows-migrationengine_31bf3856ad364e35_6.3.9600.16384_none_53bae20fe397c543\mighost.exe,1,0,0,1
+694,84393-NTFS:\Windows\WinSxS\wow64_microsoft-windows-xpsreachviewer_31bf3856ad364e35_6.3.9600.16384_none_102e5ddd568f49fd\xpsrchvw.exe,1,0,0,1
+695,87078-NTFS:\Windows\ServiceProfiles\NetworkService\AppData\Roaming\Microsoft\Crypto,1,0,0,1
+696,80637-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..directplay8-payload_31bf3856ad364e35_6.3.9600.16384_none_f43e487297dc6ad4\dpnsvr.exe,1,0,0,1
+697,38030-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_607a8fc83c1f7915\WindowsServer2003.WindowsXP-KB943295-x64-ESN.exe,1,0,0,1
+698,72492-NTFS:\Windows\WinSxS\wow64_microsoft-windows-mediafoundation_31bf3856ad364e35_6.3.9600.16384_none_97723999151972f2\rrinstaller.exe,1,0,0,1
+699,84406-NTFS:\Windows\WinSxS\wow64_windowssearchengine_31bf3856ad364e35_7.0.9600.16384_none_de0f928be6368663\SearchFilterHost.exe,1,0,0,1
+700,39084-NTFS:\Windows\WinSxS\amd64_microsoft-windows-e..seclientsync-server_31bf3856ad364e35_6.3.9600.16459_none_6868a42a4fc47bb4\SyncShareTTSvc.exe,1,0,0,1
+701,38601-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..ervicing-management_31bf3856ad364e35_6.3.9600.16384_none_4f680322e1a371ba\Dism.exe,1,0,0,1
+702,34324-NTFS:\Windows\WinSxS\wow64_microsoft.backgroun..nt.module.resources_31bf3856ad364e35_6.3.9600.16384_en-us_8005c9cd0e19cab8\about_BITS_Cmdlets.help.txt,0,1,0,1
+703,42304-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..krecognition-server_31bf3856ad364e35_6.3.9600.16384_none_1f0e416b0bb95b12\hwrcomp.exe,1,0,0,1
+704,72532-NTFS:\Windows\WinSxS\wow64_microsoft-windows-migrationengine_31bf3856ad364e35_6.3.9600.17031_none_53edd453e3720fb5\mighost.exe,1,0,0,1
+705,39102-NTFS:\Windows\WinSxS\amd64_microsoft-windows-errorreportingfaults_31bf3856ad364e35_6.3.9600.16384_none_60c57cad10c057ad\WerFaultSecure.exe,1,0,0,1
+706,38650-NTFS:\Windows\WinSxS\amd64_microsoft-windows-d..ls-adschemaanalyzer_31bf3856ad364e35_6.3.9600.16384_none_c4b744a60ac9b7ef\ADSchemaAnalyzer.exe,1,0,0,1
+707,20274-NTFS:\FileShare\Secret\PortalGunPlans.txt,0,1,0,1
+708,41230-NTFS:\Windows\WinSxS\amd64_microsoft-windows-nfs-clientcmdtools_31bf3856ad364e35_6.3.9600.16384_none_4221c32dc469340a\mount.exe,1,0,0,1
+709,84182-NTFS:\Windows\WinSxS\msil_microsoft.storagemanagement.oobe_31bf3856ad364e35_6.3.9600.16384_none_983d7c2c96a8e0a1\ProvisionVolume.exe,1,0,0,1
+710,73610-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Crypto,1,0,0,1
+711,42057-NTFS:\Windows\WinSxS\amd64_microsoft-windows-server-for-nis_31bf3856ad364e35_6.3.9600.16384_none_39b9aedc382f8a1e\yppush.exe,1,0,0,1
+712,72255-NTFS:\Windows\WinSxS\wow64_clientbackup-restorecdx86_31bf3856ad364e35_6.3.9600.16384_none_ec51d8679260ea57\selectlanguage.exe,1,0,0,1
+713,84161-NTFS:\Windows\WinSxS\msil_microsoft.storagemanagement.oobe_31bf3856ad364e35_6.3.9600.16384_none_983d7c2c96a8e0a1\msoobe_oem.exe,1,0,0,1
+714,85028-NTFS:\Users\Administrator\AppData\Roaming\Adobe,1,0,0,1
+715,85110-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\PRICache,1,0,0,1
+716,85041-NTFS:\Users\Administrator\AppData\Local\Microsoft\Internet Explorer\Tracking Protection,1,0,0,1
+717,86387-NTFS:\Program Files\VMware\VMware Tools\messages\ja,0,0,1,1
+718,42907-NTFS:\Windows\WinSxS\amd64_microsoft.windows.s..ials.mediastreaming_31bf3856ad364e35_6.3.9600.16384_none_65f94735a3e4e0d0\MediaStreamingProvider.exe,1,0,0,1
+719,72690-NTFS:\Windows\WinSxS\x86_microsoft-windows-d..-commandline-dsdiag_31bf3856ad364e35_6.3.9600.16384_none_e0cec91019a2b45f\dcdiag.exe,1,0,0,1
+720,73490-NTFS:\ProgramData\Microsoft\User Account Pictures\user.bmp,0,1,0,1
+721,87074-NTFS:\ProgramData\Microsoft\Windows\SystemData\S-1-5-18\ReadOnly\LockScreen_Z\LockScreen___2068_1230.jpg,0,1,0,1
+722,40044-NTFS:\Windows\WinSxS\amd64_microsoft-windows-isns_service_31bf3856ad364e35_6.3.9600.16384_none_b25d88b7fd726c67\isnscli.exe,1,0,0,1
+723,84334-NTFS:\Windows\WinSxS\wow64_microsoft-windows-osk_31bf3856ad364e35_6.3.9600.16384_none_a5cfddc9624679f0\osk.exe,1,0,0,1
+724,43970-NTFS:\Windows\WinSxS\amd64_updateservices-common_31bf3856ad364e35_6.3.9600.16384_none_0ec4623b6eae6fb2\WsusUtil.exe,1,0,0,1
+725,86965-NTFS:\System Volume Information\DFSR\Config\Volume_A7F6108C-F8FD-11EA-80B5-806E6F6E6963.XML,0,1,0,1
+726,80601-NTFS:\Windows\WinSxS\amd64_microsoft-windows-cleanmgr_31bf3856ad364e35_6.3.9600.17031_none_5e3588b0315d2219\cleanmgr.exe,1,0,0,1
+727,73676-NTFS:\ProgramData\VMware\VMware VGAuth\msgCatalogs\messages\it,0,0,1,1
+728,84905-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\WinX\Group3,0,1,0,1
+729,38185-NTFS:\Windows\WinSxS\amd64_microsoft-windows-blb-engine-main_31bf3856ad364e35_6.3.9600.17031_none_d4d34846d39139bf\wbengine.exe,1,0,0,1
+730,42023-NTFS:\Windows\WinSxS\amd64_microsoft-windows-securestartup-tool-exe_31bf3856ad364e35_6.3.9600.16384_none_ead91dc28b4d58dc\manage-bde.exe,1,0,0,1
+731,38934-NTFS:\Windows\WinSxS\amd64_microsoft-windows-dedup-service_31bf3856ad364e35_6.3.9600.16384_none_bfb8b8d13d6b64ec\ddpeval.exe,1,0,0,1
+732,38910-NTFS:\Windows\WinSxS\amd64_microsoft-windows-dedup-service_31bf3856ad364e35_6.3.9600.16384_none_bfb8b8d13d6b64ec\ddpcli.exe,1,0,0,1
+733,30803-NTFS:\Windows\WinSxS\amd64_microsoft-windows-timezone-sync_31bf3856ad364e35_6.3.9600.16384_none_7fef4feef44bdb63\tzsync.exe,1,0,0,1
+734,84074-NTFS:\Windows\WinSxS\msil_inspectvhddialog_31bf3856ad364e35_6.3.9600.16384_none_06e2319e7bef549a\InspectVhdDialog.exe,1,0,0,1
+735,84188-NTFS:\Windows\WinSxS\msil_microsoft.storagemanagement.oobe_31bf3856ad364e35_6.3.9600.16384_none_983d7c2c96a8e0a1\ServerWerOptinDlg.exe,1,0,0,1
+736,34324-NTFS:\Windows\System32\WindowsPowerShell\v1.0\Modules\BitsTransfer\en-US\about_BITS_Cmdlets.help.txt,0,1,0,1
+737,81511-NTFS:\Windows\WinSxS\amd64_microsoft-windows-p..rnetprinting-client_31bf3856ad364e35_6.3.9600.16384_none_7b90c5b89c5a40b6\wpnpinst.exe,1,0,0,1
+738,80229-NTFS:\Windows\WinSxS\amd64_adobe-flash-for-windows_31bf3856ad364e35_6.3.9600.16384_none_1c5e44113d869a3d\FlashUtil_ActiveX.exe,1,0,0,1
+739,73274-NTFS:\Program Files\Internet Explorer\iediagcmd.exe,0,1,0,1
+740,43380-NTFS:\Windows\WinSxS\amd64_productivity-ope_31bf3856ad364e35_6.3.9600.16384_none_3297d27460c58202\OPEWizard.exe,1,0,0,1
+741,84891-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Maintenance,0,1,0,1
+742,84987-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\UsrClass.dat,0,1,0,1
+743,60-NTFS:\Program Files\Common Files,0,0,1,1
+744,42014-NTFS:\Windows\WinSxS\amd64_microsoft-windows-securestartup-notify_31bf3856ad364e35_6.3.9600.16384_none_0db0cb687bf6c840\fvenotify.exe,1,0,0,1
+745,86963-NTFS:\FileShare,0,0,1,1
+746,72258-NTFS:\Windows\WinSxS\wow64_clientbackup-restorecdx86_31bf3856ad364e35_6.3.9600.16384_none_ec51d8679260ea57\WSSDriverSetup.exe,1,0,0,1
+747,38020-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_607a8fc83c1f7915\WindowsServer2003.WindowsXP-KB943295-x64-FRA.exe,1,0,0,1
+748,42620-NTFS:\Windows\WinSxS\amd64_microsoft-windows-winlogon_31bf3856ad364e35_6.3.9600.16384_none_60816121a8e88269\winlogon.exe,1,0,0,1
+749,84264-NTFS:\Windows\WinSxS\wow64_microsoft-windows-defrag-adminui_31bf3856ad364e35_6.3.9600.16384_none_9429191b989cbbd8\dfrgui.exe,1,0,0,1
+750,80515-NTFS:\Windows\WinSxS\amd64_microsoft-windows-axinstallservice_31bf3856ad364e35_6.3.9600.16391_none_c7b5de2644ef20b7\AxInstUI.exe,1,0,0,1
+751,72586-NTFS:\Windows\WinSxS\wow64_microsoft-windows-t..-remoteapplications_31bf3856ad364e35_6.3.9600.16384_none_3d234467a4b959f3\rdpshell.exe,1,0,0,1
+752,59-NTFS:\Program Files,0,0,1,1
+753,81093-NTFS:\Windows\WinSxS\amd64_microsoft-windows-i..ntrolpanel.appxmain_31bf3856ad364e35_6.3.9600.16384_none_0b7c6a736afec8ec\SystemSettings.exe,1,0,0,1
+754,40490-NTFS:\Windows\WinSxS\amd64_microsoft-windows-m..essagingcoreservice_31bf3856ad364e35_6.3.9600.16384_none_d3c827c6bc254045\mqsvc.exe,1,0,0,1
+755,73682-NTFS:\ProgramData\VMware\VMware VGAuth\msgCatalogs\messages\zh_CN,0,0,1,1
+756,37977-NTFS:\Windows\WinSxS\amd64_microsoft-hyper-v-drivers-hypervisor_31bf3856ad364e35_6.3.9600.16384_none_210fb36c397c4e2b\hvax64.exe,1,0,0,1
+757,72269-NTFS:\Windows\WinSxS\wow64_microsoft-windows-b..re-memorydiagnostic_31bf3856ad364e35_6.3.9600.16384_none_d34858c70cf5232d\memtest.exe,1,0,0,1
+758,72544-NTFS:\Windows\WinSxS\wow64_microsoft-windows-nap-oobshv_31bf3856ad364e35_6.3.9600.16384_none_8ef4e3774c03bb66\shvcnfg.exe,1,0,0,1
+759,46820-NTFS:\Windows\WinSxS\amd64_windowssearchengine_31bf3856ad364e35_7.0.9600.17031_none_d3edda7db1b00eda\SearchIndexer.exe,1,0,0,1
+760,72565-NTFS:\Windows\WinSxS\wow64_microsoft-windows-remoteassistance-exe_31bf3856ad364e35_6.3.9600.16389_none_327022fb0a391569\msra.exe,1,0,0,1
+761,71935-NTFS:\Windows\WinSxS\msil_microsoft.identityserver.servicehost_31bf3856ad364e35_6.3.9600.16384_none_877b8761d002140c\Microsoft.IdentityServer.ServiceHost.exe,1,0,0,1
+762,82062-NTFS:\Windows\WinSxS\amd64_microsoft-windows-smtpsvc-common_31bf3856ad364e35_6.3.9600.16384_none_21d87f780fff4c1e\regtrace.exe,1,0,0,1
+763,79041-NTFS:\Windows\WinSxS\amd64_microsoft-windows-gpowershell-exe_31bf3856ad364e35_6.3.9600.16384_none_294f7fad75ac2469\powershell_ise.exe,1,0,0,1
+764,87027-NTFS:\Windows\ServiceProfiles\LocalService\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk,1,0,0,1
+765,191-NTFS:\ProgramData\Microsoft\Crypto\RSA,0,0,1,1
+766,81474-NTFS:\Windows\WinSxS\amd64_microsoft-windows-osk_31bf3856ad364e35_6.3.9600.16384_none_9b7b33772de5b7f5\osk.exe,1,0,0,1
+767,38206-NTFS:\Windows\WinSxS\amd64_microsoft-windows-certificateservices-ca_31bf3856ad364e35_6.3.9600.16384_none_cbc5c27e1e5c9156\certsrv.exe,1,0,0,1
+768,82047-NTFS:\Windows\WinSxS\amd64_microsoft-windows-securestartup-unlock_31bf3856ad364e35_6.3.9600.16384_none_55541111006feecb\bdeunlock.exe,1,0,0,1
+769,42306-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..krecognition-server_31bf3856ad364e35_6.3.9600.16384_none_1f0e416b0bb95b12\hwrreg.exe,1,0,0,1
+770,3-NTFS:\$Volume,0,1,0,1
+771,86445-NTFS:\Program Files\VMware\VMware Tools\plugins\common,0,0,1,1
+772,82462-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..nputpersonalization_31bf3856ad364e35_6.3.9600.17031_none_309d65449a25862e\ShapeCollector.exe,1,0,0,1
+773,84436-NTFS:\Windows\WinSxS\x86_microsoft-windows-d..directplay4-payload_31bf3856ad364e35_6.3.9600.16384_none_f50cfbf7a3c23582\dplaysvr.exe,1,0,0,1
+774,82684-NTFS:\Windows\WinSxS\amd64_microsoft-windows-w..pdateclient-activex_31bf3856ad364e35_7.9.9600.16384_none_d24603617ab2ca39\wuapp.exe,1,0,0,1
+775,72337-NTFS:\Windows\WinSxS\wow64_microsoft-windows-i..tional-chinese-core_31bf3856ad364e35_6.3.9600.16384_none_549707ea094fd57a\IMTCPROP.exe,1,0,0,1
+776,84246-NTFS:\Windows\WinSxS\wow64_adobe-flash-for-windows_31bf3856ad364e35_6.3.9600.16384_none_26b2ee6371e75c38\FlashUtil_ActiveX.exe,1,0,0,1
+777,27-NTFS:\$Extend\$RmMetadata,0,1,0,1
+778,84258-NTFS:\Windows\WinSxS\wow64_microsoft-windows-cleanmgr_31bf3856ad364e35_6.3.9600.17031_none_688a330265bde414\cleanmgr.exe,1,0,0,1
+779,82243-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..alservices-webproxy_31bf3856ad364e35_6.3.9600.16384_none_22360ae42c468627\TSWbPrxy.exe,1,0,0,1
+780,82084-NTFS:\Windows\WinSxS\amd64_microsoft-windows-soundrecorder_31bf3856ad364e35_6.3.9600.16384_none_8fc7a5ae06da6033\SoundRecorder.exe,1,0,0,1
+781,84486-NTFS:\Windows\WinSxS\x86_microsoft-windows-ieinstal_31bf3856ad364e35_11.0.9600.16384_none_90429fa7bc398038\ieinstal.exe,1,0,0,1
+782,87091-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\History\Low\History.IE5,1,0,0,1
+783,81747-NTFS:\Windows\WinSxS\amd64_microsoft-windows-s..settings-adminflows_31bf3856ad364e35_6.3.9600.17031_none_4dcf554c5dc518dd\SystemSettingsAdminFlows.exe,1,0,0,1
+784,84978-NTFS:\Users\Administrator\AppData\Local\Application Data,1,0,0,1
+785,42227-NTFS:\Windows\WinSxS\amd64_microsoft-windows-sysprep_31bf3856ad364e35_6.3.9600.16384_none_e03d00cfcc71e7d2\sysprep.exe,1,0,0,1
+786,82281-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..ices-appcompattools_31bf3856ad364e35_6.3.9600.16384_none_e3ddef9c3fb5705d\TSAppInstall.exe,1,0,0,1
+787,19535-NTFS:\ProgramData\Microsoft\Windows\Start Menu\Programs\Administrative Tools\Windows PowerShell (x86).lnk,0,1,0,1
+788,84319-NTFS:\Windows\WinSxS\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_6.3.9600.16384_none_067ccd7c57718204\wmpshare.exe,1,0,0,1
+789,43307-NTFS:\Windows\WinSxS\amd64_productivity-hostedemail_31bf3856ad364e35_6.3.9600.16384_none_02d502d475d8b587\Wssg.HostedEmailConfigureWizard.exe,1,0,0,1
+790,39490-NTFS:\Windows\WinSxS\amd64_microsoft-windows-fsrm-service_31bf3856ad364e35_6.3.9600.16384_none_918fbe599aae95d6\fsrmmsvr.exe,1,0,0,1
+791,25-NTFS:\$Extend\$ObjId,0,1,0,1
+792,85570-NTFS:\Users\Administrator\AppData\Local\Microsoft_Corporation\ServerManager.exe_StrongName_m3xk0k0ucj0oj3ai2hibnhnv4xobnimj,1,0,0,1
+793,39986-NTFS:\Windows\WinSxS\amd64_microsoft-windows-iis-sharedlibraries_31bf3856ad364e35_6.3.9600.16384_none_01a7d2cf88c95dc0\iisrstas.exe,1,0,0,1
+794,86381-NTFS:\Program Files\VMware\VMware Tools\messages\es,0,0,1,1
+795,42047-NTFS:\Windows\WinSxS\amd64_microsoft-windows-server-for-nis_31bf3856ad364e35_6.3.9600.16384_none_39b9aedc382f8a1e\nismap.exe,1,0,0,1
+796,80516-NTFS:\Windows\WinSxS\amd64_microsoft-windows-axinstallservice_31bf3856ad364e35_6.3.9600.16384_none_c7c3aef044e450cb\AxInstUI.exe,1,0,0,1
+797,82189-NTFS:\Windows\WinSxS\amd64_microsoft-windows-store-client-ui-wshost_31bf3856ad364e35_6.3.9600.16384_none_04418e7c83ec6c33\WSHost.exe,1,0,0,1
+798,82224-NTFS:\Windows\WinSxS\amd64_microsoft-windows-t..-licensingadminpack_31bf3856ad364e35_6.3.9600.16384_none_34fe6412837c47c9\LicMgr.exe,1,0,0,1
+799,2-NTFS:\$LogFile,0,1,0,1
+800,72489-NTFS:\Windows\WinSxS\wow64_microsoft-windows-mediafoundation_31bf3856ad364e35_6.3.9600.17031_none_97a52bdd14f3bd64\mfpmp.exe,1,0,0,1
+801,76697-NTFS:\Windows\System32\catroot2\dberr.txt,0,1,0,1
+802,84368-NTFS:\Windows\WinSxS\wow64_microsoft-windows-tabletpc-inputpanel_31bf3856ad364e35_6.3.9600.16384_none_0ca220237fda158d\TabTip32.exe,1,0,0,1
+803,85129-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\1033,1,0,0,1
+804,84652-NTFS:\Windows\Panther\setup.exe,0,1,0,1
+805,84601-NTFS:\Windows\WinSxS\x86_microsoft-windows-wlan-extension_31bf3856ad364e35_6.3.9600.16384_none_8e82f3b53ef31e3a\wlanext.exe,1,0,0,1
+806,85007-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\SystemCertificates\My\CTLs,1,0,0,1
+807,46745-NTFS:\Windows\WinSxS\amd64_wcf-servicemodelreg_b03f5f7f11d50a3a_6.3.9600.16384_none_87ad4b2b22b6b837\ServiceModelReg.exe,1,0,0,1
+808,84316-NTFS:\Windows\WinSxS\wow64_microsoft-windows-mediaplayer-core_31bf3856ad364e35_6.3.9600.17031_none_06afbfc0574bcc76\wmplayer.exe,1,0,0,1
+809,11-NTFS:\$Extend,0,1,0,1
+810,81206-NTFS:\Windows\WinSxS\amd64_microsoft-windows-ie-ielowutil_31bf3856ad364e35_11.0.9600.16384_none_0a3b6e33542f4e18\ielowutil.exe,1,0,0,1
+811,72727-NTFS:\Windows\WinSxS\x86_microsoft-windows-d..files-x64-minkernel_31bf3856ad364e35_6.3.9600.17031_none_a05e752167ad05ce\bootmgr.exe,1,0,0,1
+812,41751-NTFS:\Windows\WinSxS\amd64_microsoft-windows-remoteassistance-exe_31bf3856ad364e35_6.3.9600.16389_none_281b78a8d5d8536e\msra.exe,1,0,0,1
+813,72260-NTFS:\Windows\WinSxS\wow64_clientdeployment-pa..ex86-win7.resources_31bf3856ad364e35_6.3.9600.16384_en-us_5b9de55faa7c343a\ComputerConnector.exe,1,0,0,1
+814,32551-NTFS:\Windows\SysWOW64\en-US\erofflps.txt,0,1,0,1
+815,72654-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-JPN.exe,1,0,0,1
+816,86982-NTFS:\Users\Administrator\AppData\Local\Microsoft\Windows\ConnectedSearch\Templates,1,0,0,1
+817,20565-NTFS:\ProgramData\VMware\RawdskCompatibility,0,0,1,1
+818,82081-NTFS:\Windows\WinSxS\amd64_microsoft-windows-snippingtool-app_31bf3856ad364e35_6.3.9600.16384_none_8a82623a5d99fa56\SnippingTool.exe,1,0,0,1
+819,84233-NTFS:\Windows\WinSxS\msil_provisionstorage_31bf3856ad364e35_6.3.9600.16384_none_640cd3ed2b5938e6\ProvisionStorage.exe,1,0,0,1
+820,42004-NTFS:\Windows\WinSxS\amd64_microsoft-windows-scripting_31bf3856ad364e35_6.3.9600.16384_none_3926b320d450f7ef\cscript.exe,1,0,0,1
+821,86968-NTFS:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent\AutomaticDestinations\9b9cdc69c1c24e2b.automaticDestinations-ms,0,1,0,1
+822,80491-NTFS:\Windows\WinSxS\amd64_microsoft-windows-a..screencontentserver_31bf3856ad364e35_6.3.9600.17031_none_f838be0d7e579b7b\LockScreenContentServer.exe,1,0,0,1
+823,84285-NTFS:\Windows\WinSxS\wow64_microsoft-windows-i..etexplorer-optional_31bf3856ad364e35_11.0.9600.16384_none_a6d068b8c51b1dbc\iexplore.exe,1,0,0,1
+824,84624-NTFS:\ProgramData\Microsoft\User Account Pictures\Administrator.dat,0,0,1,1
+825,72653-NTFS:\Windows\WinSxS\x86_microsoft-hyper-v-g..t-installer-support_31bf3856ad364e35_6.3.9600.16384_none_045bf44483c207df\WindowsServer2003-KB943295-x86-FRA.exe,1,0,0,1
+826,72780-NTFS:\Windows\WinSxS\x86_microsoft-windows-errorreportingcore_31bf3856ad364e35_6.3.9600.16384_none_b516769d217dd127\wermgr.exe,1,0,0,1
+827,84230-NTFS:\Windows\WinSxS\msil_nfsconfigguide_31bf3856ad364e35_6.3.9600.16384_none_c0e6dfa57f1d3d2b\NfsConfigGuide.exe,1,0,0,1
+828,43342-NTFS:\Windows\WinSxS\amd64_productivity-oim_31bf3856ad364e35_6.3.9600.16384_none_32901a2e60cc9da9\OIMGettingStartedWizard.exe,1,0,0,1
+829,73707-NTFS:\Program Files\Common Files\VMware\Drivers,0,0,1,1
+830,86296-NTFS:\Program Files\Common Files\VMware\Drivers\video_wddm\Vista,0,0,1,1
+831,82067-NTFS:\Windows\WinSxS\amd64_microsoft-windows-smtpsvc-common_31bf3856ad364e35_6.3.9600.16384_none_21d87f780fff4c1e\smtpsetup.exe,1,0,0,1
+832,41544-NTFS:\Windows\WinSxS\amd64_microsoft-windows-r..pdate-oob-component_31bf3856ad364e35_6.3.9600.16496_none_de4c2144785f4fe7\rdvgm.exe,1,0,0,1
+833,80916-NTFS:\Windows\WinSxS\amd64_microsoft-windows-fax-service_31bf3856ad364e35_6.3.9600.16384_none_9de1f9c8544072e5\FXSUNATD.exe,1,0,0,1
+834,73668-NTFS:\ProgramData\VMware\VMware VGAuth\msgCatalogs\messages\de,0,0,1,1
+835,23746-NTFS:\Users\Default\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\desktop.ini,0,1,0,1
+836,136-NTFS:\Boot\Fonts,0,0,1,1
+837,39864-NTFS:\Windows\WinSxS\amd64_microsoft-windows-iis-adminservice_31bf3856ad364e35_6.3.9600.16384_none_4b264a32cbb3d792\WMSvc.exe,1,0,0,1
+838,81205-NTFS:\Windows\WinSxS\amd64_microsoft-windows-ie-ieetwcollector_31bf3856ad364e35_11.0.9600.16384_none_c6dbf8e4e5bb5bc5\ieetwcollector.exe,1,0,0,1
+839,19665-NTFS:\Users\Public\Desktop\desktop.ini,0,1,0,1
+840,81443-NTFS:\Windows\WinSxS\amd64_microsoft-windows-notepadwin_31bf3856ad364e35_6.3.9600.16384_none_33882ce9cf04143d\notepad.exe,1,0,0,1
